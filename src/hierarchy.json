@@ -1,0 +1,4090 @@
+{
+  "type": "directory",
+  "children": {
+    "Collaborative Review Tools": {
+      "type": "directory",
+      "children": {
+        "Attend a Studio Session": {
+          "type": "directory",
+          "children": {
+            "Attend a Studio Session": {
+              "type": "file",
+              "slug": "attend_a_studio_session",
+              "name": "Attend a Studio Session"
+            }
+          }
+        },
+        "Create a Studio Account": {
+          "type": "directory",
+          "children": {
+            "Create a Studio Account": {
+              "type": "file",
+              "slug": "create_a_studio_account",
+              "name": "Create a Studio Account"
+            }
+          }
+        },
+        "Finishing a Studio Session": {
+          "type": "directory",
+          "children": {
+            "Finishing a Studio Session": {
+              "type": "file",
+              "slug": "finishing_a_studio_session",
+              "name": "Finishing a Studio Session"
+            }
+          }
+        },
+        "Hosting a Studio Session": {
+          "type": "directory",
+          "children": {
+            "Invite Users to a Studio Session": {
+              "type": "directory",
+              "children": {
+                "Invite Users to a Studio Session": {
+                  "type": "file",
+                  "slug": "invite_users_to_a_studio_session",
+                  "name": "Invite Users to a Studio Session"
+                }
+              }
+            },
+            "Set Studio Session Permissions": {
+              "type": "directory",
+              "children": {
+                "Set Studio Session Permissions": {
+                  "type": "file",
+                  "slug": "set_studio_session_permissions",
+                  "name": "Set Studio Session Permissions"
+                }
+              }
+            },
+            "Start a Studio Session": {
+              "type": "directory",
+              "children": {
+                "Start a Studio Session": {
+                  "type": "file",
+                  "slug": "start_a_studio_session",
+                  "name": "Start a Studio Session"
+                }
+              }
+            },
+            "Upload PDFs to a Studio Session": {
+              "type": "directory",
+              "children": {
+                "Upload PDFs to a Studio Session": {
+                  "type": "file",
+                  "slug": "upload_pdfs_to_a_studio_session",
+                  "name": "Upload PDFs to a Studio Session"
+                }
+              }
+            }
+          }
+        },
+        "Markup Alerts": {
+          "type": "directory",
+          "children": {
+            "Markup Alerts": {
+              "type": "file",
+              "slug": "markup_alerts",
+              "name": "Markup Alerts"
+            }
+          }
+        }
+      }
+    },
+    "Document Management Tools": {
+      "type": "directory",
+      "children": {
+        "Adding Studio Project PDFs to a Session": {
+          "type": "directory",
+          "children": {
+            "Adding Studio Project PDFs to a Session": {
+              "type": "file",
+              "slug": "adding_studio_project_pdfs_to_a_session",
+              "name": "Adding Studio Project PDFs to a Session"
+            }
+          }
+        },
+        "Create a Studio Account": {
+          "type": "directory",
+          "children": {
+            "Create a Studio Account": {
+              "type": "file",
+              "slug": "create_a_studio_account",
+              "name": "Create a Studio Account"
+            }
+          }
+        },
+        "Hosting a Studio Project": {
+          "type": "directory",
+          "children": {
+            "Invite Users to a Studio Project": {
+              "type": "directory",
+              "children": {
+                "Invite Users to a Studio Project": {
+                  "type": "file",
+                  "slug": "invite_users_to_a_studio_project",
+                  "name": "Invite Users to a Studio Project"
+                }
+              }
+            },
+            "Set Studio Project Permissions": {
+              "type": "directory",
+              "children": {
+                "Set Studio Project Permissions": {
+                  "type": "file",
+                  "slug": "set_studio_project_permissions",
+                  "name": "Set Studio Project Permissions"
+                }
+              }
+            },
+            "Start a Studio Project": {
+              "type": "directory",
+              "children": {
+                "Start a Studio Project": {
+                  "type": "file",
+                  "slug": "start_a_studio_project",
+                  "name": "Start a Studio Project"
+                }
+              }
+            },
+            "Upload Files to a Studio Project": {
+              "type": "directory",
+              "children": {
+                "Upload Files to a Studio Project": {
+                  "type": "file",
+                  "slug": "upload_files_to_a_studio_project",
+                  "name": "Upload Files to a Studio Project"
+                }
+              }
+            }
+          }
+        },
+        "Join a Studio Project": {
+          "type": "directory",
+          "children": {
+            "Join a Studio Project": {
+              "type": "file",
+              "slug": "join_a_studio_project",
+              "name": "Join a Studio Project"
+            }
+          }
+        },
+        "Sharing Studio Project Files": {
+          "type": "directory",
+          "children": {
+            "Sharing Studio Project Files": {
+              "type": "file",
+              "slug": "sharing_studio_project_files",
+              "name": "Sharing Studio Project Files"
+            }
+          }
+        },
+        "Working with Files in Studio Projects": {
+          "type": "directory",
+          "children": {
+            "Working with Files in Studio Projects": {
+              "type": "file",
+              "slug": "working_with_files_in_studio_projects",
+              "name": "Working with Files in Studio Projects"
+            }
+          }
+        }
+      }
+    },
+    "Drawing Management Tools": {
+      "type": "directory",
+      "children": {
+        "Batch Link": {
+          "type": "directory",
+          "children": {
+            "Batch Link": {
+              "type": "file",
+              "slug": "batch_link",
+              "name": "Batch Link"
+            }
+          }
+        },
+        "Compare Documents": {
+          "type": "directory",
+          "children": {
+            "Compare Documents": {
+              "type": "file",
+              "slug": "compare_documents",
+              "name": "Compare Documents"
+            }
+          }
+        },
+        "Exporting a Drawing Log": {
+          "type": "directory",
+          "children": {
+            "Exporting a Drawing Log": {
+              "type": "file",
+              "slug": "exporting_a_drawing_log",
+              "name": "Exporting a Drawing Log"
+            }
+          }
+        },
+        "Layers": {
+          "type": "directory",
+          "children": {
+            "Layers": {
+              "type": "file",
+              "slug": "layers",
+              "name": "Layers"
+            }
+          }
+        },
+        "Overlay Pages": {
+          "type": "directory",
+          "children": {
+            "Overlay Pages": {
+              "type": "file",
+              "slug": "overlay_pages",
+              "name": "Overlay Pages"
+            }
+          }
+        },
+        "Page Labels": {
+          "type": "directory",
+          "children": {
+            "Page Labels": {
+              "type": "file",
+              "slug": "page_labels",
+              "name": "Page Labels"
+            }
+          }
+        },
+        "Sets": {
+          "type": "directory",
+          "children": {
+            "Exporting a Drawing Log": {
+              "type": "directory",
+              "children": {
+                "Exporting a Drawing Log": {
+                  "type": "file",
+                  "slug": "exporting_a_drawing_log",
+                  "name": "Exporting a Drawing Log"
+                }
+              }
+            },
+            "Working with Sets": {
+              "type": "directory",
+              "children": {
+                "Working with Sets": {
+                  "type": "file",
+                  "slug": "working_with_sets",
+                  "name": "Working with Sets"
+                }
+              }
+            },
+            "Working with Tags": {
+              "type": "directory",
+              "children": {
+                "Working with Tags": {
+                  "type": "file",
+                  "slug": "working_with_tags",
+                  "name": "Working with Tags"
+                }
+              }
+            }
+          }
+        },
+        "Split View": {
+          "type": "directory",
+          "children": {
+            "Split View": {
+              "type": "file",
+              "slug": "split_view",
+              "name": "Split View"
+            }
+          }
+        },
+        "Working with Sets": {
+          "type": "directory",
+          "children": {
+            "Working with Sets": {
+              "type": "file",
+              "slug": "working_with_sets",
+              "name": "Working with Sets"
+            }
+          }
+        },
+        "Working with Tags": {
+          "type": "directory",
+          "children": {
+            "Working with Tags": {
+              "type": "file",
+              "slug": "working_with_tags",
+              "name": "Working with Tags"
+            }
+          }
+        }
+      }
+    },
+    "Field Issues Tools": {
+      "type": "directory",
+      "children": {
+        "Batch Summary": {
+          "type": "directory",
+          "children": {
+            "Batch Summary": {
+              "type": "file",
+              "slug": "batch_summary",
+              "name": "Batch Summary"
+            }
+          }
+        },
+        "Creating a Punch List with the Markups List": {
+          "type": "directory",
+          "children": {
+            "Creating a Punch List with the Markups List": {
+              "type": "file",
+              "slug": "creating_a_punch_list_with_the_markups_list",
+              "name": "Creating a Punch List with the Markups List"
+            }
+          }
+        },
+        "Custom Columns in the Markups List": {
+          "type": "directory",
+          "children": {
+            "Custom Columns in the Markups List": {
+              "type": "file",
+              "slug": "custom_columns_in_the_markups_list",
+              "name": "Custom Columns in the Markups List"
+            }
+          }
+        },
+        "Custom Statuses in the Markups List": {
+          "type": "directory",
+          "children": {
+            "Custom Statuses in the Markups List": {
+              "type": "file",
+              "slug": "custom_statuses_in_the_markups_list",
+              "name": "Custom Statuses in the Markups List"
+            }
+          }
+        },
+        "Markups List": {
+          "type": "directory",
+          "children": {
+            "Markups List": {
+              "type": "file",
+              "slug": "markups_list",
+              "name": "Markups List"
+            }
+          }
+        },
+        "Spaces": {
+          "type": "directory",
+          "children": {
+            "Spaces": {
+              "type": "file",
+              "slug": "spaces",
+              "name": "Spaces"
+            }
+          }
+        },
+        "Using Revu on a Tablet PC": {
+          "type": "directory",
+          "children": {
+            "Using Revu on a Tablet PC": {
+              "type": "file",
+              "slug": "using_revu_on_a_tablet_pc",
+              "name": "Using Revu on a Tablet PC"
+            }
+          }
+        }
+      }
+    },
+    "Markup Tools": {
+      "type": "directory",
+      "children": {
+        "Forms": {
+          "type": "directory",
+          "children": {
+            "Creating Forms": {
+              "type": "directory",
+              "children": {
+                "Creating Forms": {
+                  "type": "file",
+                  "slug": "creating_forms",
+                  "name": "Creating Forms"
+                }
+              }
+            },
+            "Form Fields": {
+              "type": "directory",
+              "children": {
+                "Form Fields": {
+                  "type": "file",
+                  "slug": "form_fields",
+                  "name": "Form Fields"
+                }
+              }
+            },
+            "Forms": {
+              "type": "directory",
+              "children": {
+                "Forms": {
+                  "type": "file",
+                  "slug": "forms",
+                  "name": "Forms"
+                }
+              }
+            },
+            "Using PDF Forms": {
+              "type": "directory",
+              "children": {
+                "Using PDF Forms": {
+                  "type": "file",
+                  "slug": "using_pdf_forms",
+                  "name": "Using PDF Forms"
+                }
+              }
+            }
+          }
+        },
+        "Image Markups": {
+          "type": "directory",
+          "children": {
+            "Camera Tool": {
+              "type": "directory",
+              "children": {
+                "Camera Tool": {
+                  "type": "file",
+                  "slug": "camera_tool",
+                  "name": "Camera Tool"
+                }
+              }
+            },
+            "Crop Image": {
+              "type": "directory",
+              "children": {
+                "Crop Image": {
+                  "type": "file",
+                  "slug": "crop_image",
+                  "name": "Crop Image"
+                }
+              }
+            },
+            "Embedded Markup Media": {
+              "type": "directory",
+              "children": {
+                "Embedded Markup Media": {
+                  "type": "file",
+                  "slug": "embedded_markup_media",
+                  "name": "Embedded Markup Media"
+                }
+              }
+            },
+            "Image Markups": {
+              "type": "directory",
+              "children": {
+                "Image Markups": {
+                  "type": "file",
+                  "slug": "image_markups",
+                  "name": "Image Markups"
+                }
+              }
+            }
+          }
+        },
+        "Markups List": {
+          "type": "directory",
+          "children": {
+            "Managing and Creating Columns in the Markups List": {
+              "type": "directory",
+              "children": {
+                "Managing and Creating Columns in the Markups List": {
+                  "type": "file",
+                  "slug": "managing_and_creating_columns_in_the_markups_list",
+                  "name": "Managing and Creating Columns in the Markups List"
+                }
+              }
+            },
+            "Markups List": {
+              "type": "directory",
+              "children": {
+                "Markups List": {
+                  "type": "file",
+                  "slug": "markups_list",
+                  "name": "Markups List"
+                }
+              }
+            },
+            "Status in the Markups List": {
+              "type": "directory",
+              "children": {
+                "Status in the Markups List": {
+                  "type": "file",
+                  "slug": "status_in_the_markups_list",
+                  "name": "Status in the Markups List"
+                }
+              }
+            },
+            "Using the Markups List": {
+              "type": "directory",
+              "children": {
+                "Using the Markups List": {
+                  "type": "file",
+                  "slug": "using_the_markups_list",
+                  "name": "Using the Markups List"
+                }
+              }
+            }
+          }
+        },
+        "Measurement Markups": {
+          "type": "directory",
+          "children": {
+            "Angle Measurement": {
+              "type": "directory",
+              "children": {
+                "Angle Measurement": {
+                  "type": "file",
+                  "slug": "angle_measurement",
+                  "name": "Angle Measurement"
+                }
+              }
+            },
+            "Area Measurement": {
+              "type": "directory",
+              "children": {
+                "Area Measurement": {
+                  "type": "file",
+                  "slug": "area_measurement",
+                  "name": "Area Measurement"
+                }
+              }
+            },
+            "Center Radius Measurement": {
+              "type": "directory",
+              "children": {
+                "Center Radius Measurement": {
+                  "type": "file",
+                  "slug": "center_radius_measurement",
+                  "name": "Center Radius Measurement"
+                }
+              }
+            },
+            "Count Tool": {
+              "type": "directory",
+              "children": {
+                "Count Tool": {
+                  "type": "file",
+                  "slug": "count_tool",
+                  "name": "Count Tool"
+                }
+              }
+            },
+            "Cutout Tool": {
+              "type": "directory",
+              "children": {
+                "Cutout Tool": {
+                  "type": "file",
+                  "slug": "cutout_tool",
+                  "name": "Cutout Tool"
+                }
+              }
+            },
+            "Diameter Measurement": {
+              "type": "directory",
+              "children": {
+                "Diameter Measurement": {
+                  "type": "file",
+                  "slug": "diameter_measurement",
+                  "name": "Diameter Measurement"
+                }
+              }
+            },
+            "Dynamic Fill": {
+              "type": "directory",
+              "children": {
+                "Dynamic Fill": {
+                  "type": "file",
+                  "slug": "dynamic_fill",
+                  "name": "Dynamic Fill"
+                }
+              }
+            },
+            "Length Measurement": {
+              "type": "directory",
+              "children": {
+                "Length Measurement": {
+                  "type": "file",
+                  "slug": "length_measurement",
+                  "name": "Length Measurement"
+                }
+              }
+            },
+            "Measure Tool": {
+              "type": "directory",
+              "children": {
+                "Measure Tool": {
+                  "type": "file",
+                  "slug": "measure_tool",
+                  "name": "Measure Tool"
+                }
+              }
+            },
+            "Perimeter Measurement": {
+              "type": "directory",
+              "children": {
+                "Perimeter Measurement": {
+                  "type": "file",
+                  "slug": "perimeter_measurement",
+                  "name": "Perimeter Measurement"
+                }
+              }
+            },
+            "Polylength Measurement": {
+              "type": "directory",
+              "children": {
+                "Polylength Measurement": {
+                  "type": "file",
+                  "slug": "polylength_measurement",
+                  "name": "Polylength Measurement"
+                }
+              }
+            },
+            "Setting Page Scales": {
+              "type": "directory",
+              "children": {
+                "Setting Page Scales": {
+                  "type": "file",
+                  "slug": "setting_page_scales",
+                  "name": "Setting Page Scales"
+                }
+              }
+            },
+            "Three-Point Radius Measurement": {
+              "type": "directory",
+              "children": {
+                "Three-Point Radius Measurement": {
+                  "type": "file",
+                  "slug": "threepoint_radius_measurement",
+                  "name": "Three-Point Radius Measurement"
+                }
+              }
+            },
+            "Volume Measurement": {
+              "type": "directory",
+              "children": {
+                "Volume Measurement": {
+                  "type": "file",
+                  "slug": "volume_measurement",
+                  "name": "Volume Measurement"
+                }
+              }
+            }
+          }
+        },
+        "Shape Markups": {
+          "type": "directory",
+          "children": {
+            "Arc Tool": {
+              "type": "directory",
+              "children": {
+                "Arc Tool": {
+                  "type": "file",
+                  "slug": "arc_tool",
+                  "name": "Arc Tool"
+                }
+              }
+            },
+            "Arrow Tool": {
+              "type": "directory",
+              "children": {
+                "Arrow Tool": {
+                  "type": "file",
+                  "slug": "arrow_tool",
+                  "name": "Arrow Tool"
+                }
+              }
+            },
+            "Callout Tool": {
+              "type": "directory",
+              "children": {
+                "Callout Tool": {
+                  "type": "file",
+                  "slug": "callout_tool",
+                  "name": "Callout Tool"
+                }
+              }
+            },
+            "Cloud Tool": {
+              "type": "directory",
+              "children": {
+                "Cloud Tool": {
+                  "type": "file",
+                  "slug": "cloud_tool",
+                  "name": "Cloud Tool"
+                }
+              }
+            },
+            "Cloud+ Tool": {
+              "type": "directory",
+              "children": {
+                "Cloud+ Tool": {
+                  "type": "file",
+                  "slug": "cloud_tool",
+                  "name": "Cloud+ Tool"
+                }
+              }
+            },
+            "Dimension Tool": {
+              "type": "directory",
+              "children": {
+                "Dimension Tool": {
+                  "type": "file",
+                  "slug": "dimension_tool",
+                  "name": "Dimension Tool"
+                }
+              }
+            },
+            "Dynamic Fill": {
+              "type": "directory",
+              "children": {
+                "Dynamic Fill": {
+                  "type": "file",
+                  "slug": "dynamic_fill",
+                  "name": "Dynamic Fill"
+                }
+              }
+            },
+            "Ellipse Tool": {
+              "type": "directory",
+              "children": {
+                "Ellipse Tool": {
+                  "type": "file",
+                  "slug": "ellipse_tool",
+                  "name": "Ellipse Tool"
+                }
+              }
+            },
+            "Highlight Tool": {
+              "type": "directory",
+              "children": {
+                "Highlight Tool": {
+                  "type": "file",
+                  "slug": "highlight_tool",
+                  "name": "Highlight Tool"
+                }
+              }
+            },
+            "Line Tool": {
+              "type": "directory",
+              "children": {
+                "Line Tool": {
+                  "type": "file",
+                  "slug": "line_tool",
+                  "name": "Line Tool"
+                }
+              }
+            },
+            "Pen Tool": {
+              "type": "directory",
+              "children": {
+                "Pen Tool": {
+                  "type": "file",
+                  "slug": "pen_tool",
+                  "name": "Pen Tool"
+                }
+              }
+            },
+            "Polygon  Tool": {
+              "type": "directory",
+              "children": {
+                "Polygon  Tool": {
+                  "type": "file",
+                  "slug": "polygon_tool",
+                  "name": "Polygon  Tool"
+                }
+              }
+            },
+            "Polyline Tool": {
+              "type": "directory",
+              "children": {
+                "Polyline Tool": {
+                  "type": "file",
+                  "slug": "polyline_tool",
+                  "name": "Polyline Tool"
+                }
+              }
+            },
+            "Rectangle Tool": {
+              "type": "directory",
+              "children": {
+                "Rectangle Tool": {
+                  "type": "file",
+                  "slug": "rectangle_tool",
+                  "name": "Rectangle Tool"
+                }
+              }
+            }
+          }
+        },
+        "Sketch-to-Scale Markups": {
+          "type": "directory",
+          "children": {
+            "Ellipse Sketch Tool": {
+              "type": "directory",
+              "children": {
+                "Ellipse Sketch Tool": {
+                  "type": "file",
+                  "slug": "ellipse_sketch_tool",
+                  "name": "Ellipse Sketch Tool"
+                }
+              }
+            },
+            "Polygon Sketch Tool": {
+              "type": "directory",
+              "children": {
+                "Polygon Sketch Tool": {
+                  "type": "file",
+                  "slug": "polygon_sketch_tool",
+                  "name": "Polygon Sketch Tool"
+                }
+              }
+            },
+            "Polyline Sketch Tool": {
+              "type": "directory",
+              "children": {
+                "Polyline Sketch Tool": {
+                  "type": "file",
+                  "slug": "polyline_sketch_tool",
+                  "name": "Polyline Sketch Tool"
+                }
+              }
+            },
+            "Rectangle Sketch Tool": {
+              "type": "directory",
+              "children": {
+                "Rectangle Sketch Tool": {
+                  "type": "file",
+                  "slug": "rectangle_sketch_tool",
+                  "name": "Rectangle Sketch Tool"
+                }
+              }
+            },
+            "Scaling a Tool Set": {
+              "type": "directory",
+              "children": {
+                "Scaling a Tool Set": {
+                  "type": "file",
+                  "slug": "scaling_a_tool_set",
+                  "name": "Scaling a Tool Set"
+                }
+              }
+            }
+          }
+        },
+        "Stamps": {
+          "type": "directory",
+          "children": {
+            "Working with Stamps": {
+              "type": "directory",
+              "children": {
+                "Working with Stamps": {
+                  "type": "file",
+                  "slug": "working_with_stamps",
+                  "name": "Working with Stamps"
+                }
+              }
+            }
+          }
+        },
+        "Text Markups": {
+          "type": "directory",
+          "children": {
+            "Callout Tool": {
+              "type": "directory",
+              "children": {
+                "Callout Tool": {
+                  "type": "file",
+                  "slug": "callout_tool",
+                  "name": "Callout Tool"
+                }
+              }
+            },
+            "Editing and Reviewing Text": {
+              "type": "directory",
+              "children": {
+                "Editing and Reviewing Text": {
+                  "type": "file",
+                  "slug": "editing_and_reviewing_text",
+                  "name": "Editing and Reviewing Text"
+                }
+              }
+            },
+            "Eraser Tool": {
+              "type": "directory",
+              "children": {
+                "Eraser Tool": {
+                  "type": "file",
+                  "slug": "eraser_tool",
+                  "name": "Eraser Tool"
+                }
+              }
+            },
+            "Text Box Tool": {
+              "type": "directory",
+              "children": {
+                "Text Box Tool": {
+                  "type": "file",
+                  "slug": "text_box_tool",
+                  "name": "Text Box Tool"
+                }
+              }
+            },
+            "Typewriter Tool": {
+              "type": "directory",
+              "children": {
+                "Typewriter Tool": {
+                  "type": "file",
+                  "slug": "typewriter_tool",
+                  "name": "Typewriter Tool"
+                }
+              }
+            }
+          }
+        },
+        "Working With Markups": {
+          "type": "directory",
+          "children": {
+            "Aligning Markups": {
+              "type": "directory",
+              "children": {
+                "Aligning Markups": {
+                  "type": "file",
+                  "slug": "aligning_markups",
+                  "name": "Aligning Markups"
+                }
+              }
+            },
+            "Custom Hatch Patterns": {
+              "type": "directory",
+              "children": {
+                "Custom Hatch Patterns": {
+                  "type": "file",
+                  "slug": "custom_hatch_patterns",
+                  "name": "Custom Hatch Patterns"
+                }
+              }
+            },
+            "Custom Line Styles": {
+              "type": "directory",
+              "children": {
+                "Custom Line Styles": {
+                  "type": "file",
+                  "slug": "custom_line_styles",
+                  "name": "Custom Line Styles"
+                }
+              }
+            },
+            "Editing Markups": {
+              "type": "directory",
+              "children": {
+                "Editing Markups": {
+                  "type": "file",
+                  "slug": "editing_markups",
+                  "name": "Editing Markups"
+                }
+              }
+            },
+            "Flattening Markups": {
+              "type": "directory",
+              "children": {
+                "Flattening Markups": {
+                  "type": "file",
+                  "slug": "flattening_markups",
+                  "name": "Flattening Markups"
+                }
+              }
+            },
+            "Grouping Markups": {
+              "type": "directory",
+              "children": {
+                "Grouping Markups": {
+                  "type": "file",
+                  "slug": "grouping_markups",
+                  "name": "Grouping Markups"
+                }
+              }
+            },
+            "Legend": {
+              "type": "directory",
+              "children": {
+                "Legend": {
+                  "type": "file",
+                  "slug": "legend",
+                  "name": "Legend"
+                }
+              }
+            },
+            "Showing the Centroid": {
+              "type": "directory",
+              "children": {
+                "Showing the Centroid": {
+                  "type": "file",
+                  "slug": "showing_the_centroid",
+                  "name": "Showing the Centroid"
+                }
+              }
+            },
+            "Working with Control Points": {
+              "type": "directory",
+              "children": {
+                "Working with Control Points": {
+                  "type": "file",
+                  "slug": "working_with_control_points",
+                  "name": "Working with Control Points"
+                }
+              }
+            },
+            "Working with Curved Markups": {
+              "type": "directory",
+              "children": {
+                "Working with Curved Markups": {
+                  "type": "file",
+                  "slug": "working_with_curved_markups",
+                  "name": "Working with Curved Markups"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "PDF Tools": {
+      "type": "directory",
+      "children": {
+        "Batch Tools": {
+          "type": "directory",
+          "children": {
+            "Batch Apply Stamp": {
+              "type": "directory",
+              "children": {
+                "Batch Apply Stamp": {
+                  "type": "file",
+                  "slug": "batch_apply_stamp",
+                  "name": "Batch Apply Stamp"
+                }
+              }
+            },
+            "Batch Compare Documents": {
+              "type": "directory",
+              "children": {
+                "Batch Compare Documents": {
+                  "type": "file",
+                  "slug": "batch_compare_documents",
+                  "name": "Batch Compare Documents"
+                }
+              }
+            },
+            "Batch Crop and Page Setup": {
+              "type": "directory",
+              "children": {
+                "Batch Crop and Page Setup": {
+                  "type": "file",
+                  "slug": "batch_crop_and_page_setup",
+                  "name": "Batch Crop and Page Setup"
+                }
+              }
+            },
+            "Batch Link": {
+              "type": "directory",
+              "children": {
+                "Batch Link": {
+                  "type": "file",
+                  "slug": "batch_link",
+                  "name": "Batch Link"
+                }
+              }
+            },
+            "Batch Menu": {
+              "type": "directory",
+              "children": {
+                "Batch Menu": {
+                  "type": "file",
+                  "slug": "batch_menu",
+                  "name": "Batch Menu"
+                }
+              }
+            },
+            "Batch Overlay": {
+              "type": "directory",
+              "children": {
+                "Batch Overlay": {
+                  "type": "file",
+                  "slug": "batch_overlay",
+                  "name": "Batch Overlay"
+                }
+              }
+            },
+            "Batch Print": {
+              "type": "directory",
+              "children": {
+                "Batch Print": {
+                  "type": "file",
+                  "slug": "batch_print",
+                  "name": "Batch Print"
+                }
+              }
+            },
+            "Batch Processing Headers and Footers": {
+              "type": "directory",
+              "children": {
+                "Batch Processing Headers and Footers": {
+                  "type": "file",
+                  "slug": "batch_processing_headers_and_footers",
+                  "name": "Batch Processing Headers and Footers"
+                }
+              }
+            },
+            "Batch Sign & Seal": {
+              "type": "directory",
+              "children": {
+                "Batch Sign & Seal": {
+                  "type": "file",
+                  "slug": "batch_sign__seal",
+                  "name": "Batch Sign & Seal"
+                }
+              }
+            },
+            "Batch Slip Sheet": {
+              "type": "directory",
+              "children": {
+                "Batch Slip Sheet": {
+                  "type": "file",
+                  "slug": "batch_slip_sheet",
+                  "name": "Batch Slip Sheet"
+                }
+              }
+            },
+            "Markup Summary": {
+              "type": "directory",
+              "children": {
+                "Markup Summary": {
+                  "type": "file",
+                  "slug": "markup_summary",
+                  "name": "Markup Summary"
+                }
+              }
+            }
+          }
+        },
+        "Compare & Overlay": {
+          "type": "directory",
+          "children": {
+            "Batch Compare Documents": {
+              "type": "directory",
+              "children": {
+                "Batch Compare Documents": {
+                  "type": "file",
+                  "slug": "batch_compare_documents",
+                  "name": "Batch Compare Documents"
+                }
+              }
+            },
+            "Batch Overlay": {
+              "type": "directory",
+              "children": {
+                "Batch Overlay": {
+                  "type": "file",
+                  "slug": "batch_overlay",
+                  "name": "Batch Overlay"
+                }
+              }
+            },
+            "Comparing Documents": {
+              "type": "directory",
+              "children": {
+                "Comparing Documents": {
+                  "type": "file",
+                  "slug": "comparing_documents",
+                  "name": "Comparing Documents"
+                }
+              }
+            },
+            "Overlay Pages": {
+              "type": "directory",
+              "children": {
+                "Overlay Pages": {
+                  "type": "file",
+                  "slug": "overlay_pages",
+                  "name": "Overlay Pages"
+                }
+              }
+            }
+          }
+        },
+        "Forms & OCR": {
+          "type": "directory",
+          "children": {
+            "Form Fields": {
+              "type": "directory",
+              "children": {
+                "Form Fields": {
+                  "type": "file",
+                  "slug": "form_fields",
+                  "name": "Form Fields"
+                }
+              }
+            },
+            "Forms": {
+              "type": "directory",
+              "children": {
+                "Forms": {
+                  "type": "file",
+                  "slug": "forms",
+                  "name": "Forms"
+                }
+              }
+            },
+            "OCR": {
+              "type": "directory",
+              "children": {
+                "OCR": {
+                  "type": "file",
+                  "slug": "ocr",
+                  "name": "OCR"
+                }
+              }
+            },
+            "Using PDF Forms": {
+              "type": "directory",
+              "children": {
+                "Using PDF Forms": {
+                  "type": "file",
+                  "slug": "using_pdf_forms",
+                  "name": "Using PDF Forms"
+                }
+              }
+            }
+          }
+        },
+        "Headers and Footers": {
+          "type": "directory",
+          "children": {
+            "Batch Processing Headers and Footers": {
+              "type": "directory",
+              "children": {
+                "Batch Processing Headers and Footers": {
+                  "type": "file",
+                  "slug": "batch_processing_headers_and_footers",
+                  "name": "Batch Processing Headers and Footers"
+                }
+              }
+            },
+            "Creating Headers and Footers": {
+              "type": "directory",
+              "children": {
+                "Creating Headers and Footers": {
+                  "type": "file",
+                  "slug": "creating_headers_and_footers",
+                  "name": "Creating Headers and Footers"
+                }
+              }
+            }
+          }
+        },
+        "Page Setup": {
+          "type": "directory",
+          "children": {
+            "Batch Crop and Page Setup": {
+              "type": "directory",
+              "children": {
+                "Batch Crop and Page Setup": {
+                  "type": "file",
+                  "slug": "batch_crop_and_page_setup",
+                  "name": "Batch Crop and Page Setup"
+                }
+              }
+            },
+            "Deleting Pages": {
+              "type": "directory",
+              "children": {
+                "Deleting Pages": {
+                  "type": "file",
+                  "slug": "deleting_pages",
+                  "name": "Deleting Pages"
+                }
+              }
+            },
+            "Deskewing PDF Content": {
+              "type": "directory",
+              "children": {
+                "Deskewing PDF Content": {
+                  "type": "file",
+                  "slug": "deskewing_pdf_content",
+                  "name": "Deskewing PDF Content"
+                }
+              }
+            },
+            "Editing Page Labels and Page Numbering": {
+              "type": "directory",
+              "children": {
+                "Editing Page Labels and Page Numbering": {
+                  "type": "file",
+                  "slug": "editing_page_labels_and_page_numbering",
+                  "name": "Editing Page Labels and Page Numbering"
+                }
+              }
+            },
+            "Extracting Pages": {
+              "type": "directory",
+              "children": {
+                "Extracting Pages": {
+                  "type": "file",
+                  "slug": "extracting_pages",
+                  "name": "Extracting Pages"
+                }
+              }
+            },
+            "Inserting Pages into a PDF": {
+              "type": "directory",
+              "children": {
+                "Inserting Pages into a PDF": {
+                  "type": "file",
+                  "slug": "inserting_pages_into_a_pdf",
+                  "name": "Inserting Pages into a PDF"
+                }
+              }
+            },
+            "Replace Pages": {
+              "type": "directory",
+              "children": {
+                "Replace Pages": {
+                  "type": "file",
+                  "slug": "replace_pages",
+                  "name": "Replace Pages"
+                }
+              }
+            },
+            "Rotate Pages": {
+              "type": "directory",
+              "children": {
+                "Rotate Pages": {
+                  "type": "file",
+                  "slug": "rotate_pages",
+                  "name": "Rotate Pages"
+                }
+              }
+            },
+            "Split Document": {
+              "type": "directory",
+              "children": {
+                "Split Document": {
+                  "type": "file",
+                  "slug": "split_document",
+                  "name": "Split Document"
+                }
+              }
+            }
+          }
+        },
+        "PDF Security": {
+          "type": "directory",
+          "children": {
+            "Certifying a Document": {
+              "type": "directory",
+              "children": {
+                "Certifying a Document": {
+                  "type": "file",
+                  "slug": "certifying_a_document",
+                  "name": "Certifying a Document"
+                }
+              }
+            },
+            "PDF Security": {
+              "type": "directory",
+              "children": {
+                "PDF Security": {
+                  "type": "file",
+                  "slug": "pdf_security",
+                  "name": "PDF Security"
+                }
+              }
+            },
+            "Working with Digital Signatures": {
+              "type": "directory",
+              "children": {
+                "Working with Digital Signatures": {
+                  "type": "file",
+                  "slug": "working_with_digital_signatures",
+                  "name": "Working with Digital Signatures"
+                }
+              }
+            }
+          }
+        },
+        "Reduce, Repair, & Archive": {
+          "type": "directory",
+          "children": {
+            "PDF_A-1b Archives": {
+              "type": "directory",
+              "children": {
+                "PDF_A-1b Archives": {
+                  "type": "file",
+                  "slug": "pdf_a1b_archives",
+                  "name": "PDF_A-1b Archives"
+                }
+              }
+            },
+            "Reduce File Size": {
+              "type": "directory",
+              "children": {
+                "Reduce File Size": {
+                  "type": "file",
+                  "slug": "reduce_file_size",
+                  "name": "Reduce File Size"
+                }
+              }
+            },
+            "Repair PDF": {
+              "type": "directory",
+              "children": {
+                "Repair PDF": {
+                  "type": "file",
+                  "slug": "repair_pdf",
+                  "name": "Repair PDF"
+                }
+              }
+            }
+          }
+        },
+        "Scripting": {
+          "type": "directory",
+          "children": {
+            "Using Scripts in Revu": {
+              "type": "directory",
+              "children": {
+                "Using Scripts in Revu": {
+                  "type": "file",
+                  "slug": "using_scripts_in_revu",
+                  "name": "Using Scripts in Revu"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Quantity Takeoff Tools": {
+      "type": "directory",
+      "children": {
+        "Custom Markups and Tool Sets": {
+          "type": "directory",
+          "children": {
+            "Creating a New Tool Set": {
+              "type": "directory",
+              "children": {
+                "Creating a New Tool Set": {
+                  "type": "file",
+                  "slug": "creating_a_new_tool_set",
+                  "name": "Creating a New Tool Set"
+                }
+              }
+            },
+            "Custom Hatch Patterns": {
+              "type": "directory",
+              "children": {
+                "Custom Hatch Patterns": {
+                  "type": "file",
+                  "slug": "custom_hatch_patterns",
+                  "name": "Custom Hatch Patterns"
+                }
+              }
+            },
+            "Custom Line Styles": {
+              "type": "directory",
+              "children": {
+                "Custom Line Styles": {
+                  "type": "file",
+                  "slug": "custom_line_styles",
+                  "name": "Custom Line Styles"
+                }
+              }
+            },
+            "Customizing Markups": {
+              "type": "directory",
+              "children": {
+                "Customizing Markups": {
+                  "type": "file",
+                  "slug": "customizing_markups",
+                  "name": "Customizing Markups"
+                }
+              }
+            },
+            "Grouping Markups": {
+              "type": "directory",
+              "children": {
+                "Grouping Markups": {
+                  "type": "file",
+                  "slug": "grouping_markups",
+                  "name": "Grouping Markups"
+                }
+              }
+            },
+            "Legend": {
+              "type": "directory",
+              "children": {
+                "Legend": {
+                  "type": "file",
+                  "slug": "legend",
+                  "name": "Legend"
+                }
+              }
+            },
+            "Sequences": {
+              "type": "directory",
+              "children": {
+                "Sequences": {
+                  "type": "file",
+                  "slug": "sequences",
+                  "name": "Sequences"
+                }
+              }
+            }
+          }
+        },
+        "Legend": {
+          "type": "directory",
+          "children": {
+            "Legend": {
+              "type": "file",
+              "slug": "legend",
+              "name": "Legend"
+            }
+          }
+        },
+        "Measurement Markups": {
+          "type": "directory",
+          "children": {
+            "Angle Measurement": {
+              "type": "directory",
+              "children": {
+                "Angle Measurement": {
+                  "type": "file",
+                  "slug": "angle_measurement",
+                  "name": "Angle Measurement"
+                }
+              }
+            },
+            "Area Measurement": {
+              "type": "directory",
+              "children": {
+                "Area Measurement": {
+                  "type": "file",
+                  "slug": "area_measurement",
+                  "name": "Area Measurement"
+                }
+              }
+            },
+            "Center Radius Measurement": {
+              "type": "directory",
+              "children": {
+                "Center Radius Measurement": {
+                  "type": "file",
+                  "slug": "center_radius_measurement",
+                  "name": "Center Radius Measurement"
+                }
+              }
+            },
+            "Count Tool": {
+              "type": "directory",
+              "children": {
+                "Count Tool": {
+                  "type": "file",
+                  "slug": "count_tool",
+                  "name": "Count Tool"
+                }
+              }
+            },
+            "Cutout Tool": {
+              "type": "directory",
+              "children": {
+                "Cutout Tool": {
+                  "type": "file",
+                  "slug": "cutout_tool",
+                  "name": "Cutout Tool"
+                }
+              }
+            },
+            "Diameter Measurement": {
+              "type": "directory",
+              "children": {
+                "Diameter Measurement": {
+                  "type": "file",
+                  "slug": "diameter_measurement",
+                  "name": "Diameter Measurement"
+                }
+              }
+            },
+            "Dynamic Fill": {
+              "type": "directory",
+              "children": {
+                "Dynamic Fill": {
+                  "type": "file",
+                  "slug": "dynamic_fill",
+                  "name": "Dynamic Fill"
+                }
+              }
+            },
+            "Length Measurement": {
+              "type": "directory",
+              "children": {
+                "Length Measurement": {
+                  "type": "file",
+                  "slug": "length_measurement",
+                  "name": "Length Measurement"
+                }
+              }
+            },
+            "Measure Tool": {
+              "type": "directory",
+              "children": {
+                "Measure Tool": {
+                  "type": "file",
+                  "slug": "measure_tool",
+                  "name": "Measure Tool"
+                }
+              }
+            },
+            "Perimeter Measurement": {
+              "type": "directory",
+              "children": {
+                "Perimeter Measurement": {
+                  "type": "file",
+                  "slug": "perimeter_measurement",
+                  "name": "Perimeter Measurement"
+                }
+              }
+            },
+            "Polylength Measurement": {
+              "type": "directory",
+              "children": {
+                "Polylength Measurement": {
+                  "type": "file",
+                  "slug": "polylength_measurement",
+                  "name": "Polylength Measurement"
+                }
+              }
+            },
+            "Three-Point Radius Measurement": {
+              "type": "directory",
+              "children": {
+                "Three-Point Radius Measurement": {
+                  "type": "file",
+                  "slug": "threepoint_radius_measurement",
+                  "name": "Three-Point Radius Measurement"
+                }
+              }
+            },
+            "Volume Measurement": {
+              "type": "directory",
+              "children": {
+                "Volume Measurement": {
+                  "type": "file",
+                  "slug": "volume_measurement",
+                  "name": "Volume Measurement"
+                }
+              }
+            }
+          }
+        },
+        "Measurements Panel": {
+          "type": "directory",
+          "children": {
+            "Measurements Panel": {
+              "type": "file",
+              "slug": "measurements_panel",
+              "name": "Measurements Panel"
+            }
+          }
+        },
+        "Organizing and Summarizing Results": {
+          "type": "directory",
+          "children": {
+            "Organizing and Summarizing Results": {
+              "type": "file",
+              "slug": "organizing_and_summarizing_results",
+              "name": "Organizing and Summarizing Results"
+            }
+          }
+        },
+        "Properties Toolbar": {
+          "type": "directory",
+          "children": {
+            "Properties Toolbar": {
+              "type": "file",
+              "slug": "properties_toolbar",
+              "name": "Properties Toolbar"
+            }
+          }
+        },
+        "Rulers": {
+          "type": "directory",
+          "children": {
+            "Rulers": {
+              "type": "file",
+              "slug": "rulers",
+              "name": "Rulers"
+            }
+          }
+        },
+        "Searching PDFs": {
+          "type": "directory",
+          "children": {
+            "Searching PDFs": {
+              "type": "file",
+              "slug": "searching_pdfs",
+              "name": "Searching PDFs"
+            }
+          }
+        },
+        "Setting Page Scales": {
+          "type": "directory",
+          "children": {
+            "Setting Page Scales": {
+              "type": "file",
+              "slug": "setting_page_scales",
+              "name": "Setting Page Scales"
+            }
+          }
+        },
+        "The Markups List": {
+          "type": "directory",
+          "children": {
+            "Generating a Capture Summary": {
+              "type": "directory",
+              "children": {
+                "Generating a Capture Summary": {
+                  "type": "file",
+                  "slug": "generating_a_capture_summary",
+                  "name": "Generating a Capture Summary"
+                }
+              }
+            },
+            "Managing and Creating Columns in the Markups List": {
+              "type": "directory",
+              "children": {
+                "Managing and Creating Columns in the Markups List": {
+                  "type": "file",
+                  "slug": "managing_and_creating_columns_in_the_markups_list",
+                  "name": "Managing and Creating Columns in the Markups List"
+                }
+              }
+            },
+            "Markups List": {
+              "type": "directory",
+              "children": {
+                "Markups List": {
+                  "type": "file",
+                  "slug": "markups_list",
+                  "name": "Markups List"
+                }
+              }
+            },
+            "Organizing and Summarizing Results": {
+              "type": "directory",
+              "children": {
+                "Organizing and Summarizing Results": {
+                  "type": "file",
+                  "slug": "organizing_and_summarizing_results",
+                  "name": "Organizing and Summarizing Results"
+                }
+              }
+            },
+            "Using and Creating Filters in the Markups List": {
+              "type": "directory",
+              "children": {
+                "Using and Creating Filters in the Markups List": {
+                  "type": "file",
+                  "slug": "using_and_creating_filters_in_the_markups_list",
+                  "name": "Using and Creating Filters in the Markups List"
+                }
+              }
+            },
+            "Using Custom Columns for Quantity Takeoffs": {
+              "type": "directory",
+              "children": {
+                "Using Custom Columns for Quantity Takeoffs": {
+                  "type": "file",
+                  "slug": "using_custom_columns_for_quantity_takeoffs",
+                  "name": "Using Custom Columns for Quantity Takeoffs"
+                }
+              }
+            },
+            "Using the Markups List": {
+              "type": "directory",
+              "children": {
+                "Using the Markups List": {
+                  "type": "file",
+                  "slug": "using_the_markups_list",
+                  "name": "Using the Markups List"
+                }
+              }
+            }
+          }
+        },
+        "Tool Chest Panel": {
+          "type": "directory",
+          "children": {
+            "Tool Chest Panel": {
+              "type": "file",
+              "slug": "tool_chest_panel",
+              "name": "Tool Chest Panel"
+            }
+          }
+        }
+      }
+    },
+    "Studio Tools": {
+      "type": "directory",
+      "children": {
+        "Create a Studio Account": {
+          "type": "directory",
+          "children": {
+            "Create a Studio Account": {
+              "type": "file",
+              "slug": "create_a_studio_account",
+              "name": "Create a Studio Account"
+            }
+          }
+        },
+        "Manage Studio Servers": {
+          "type": "directory",
+          "children": {
+            "Manage Studio Servers": {
+              "type": "file",
+              "slug": "manage_studio_servers",
+              "name": "Manage Studio Servers"
+            }
+          }
+        },
+        "Studio FAQs": {
+          "type": "directory",
+          "children": {
+            "Studio FAQs": {
+              "type": "file",
+              "slug": "studio_faqs",
+              "name": "Studio FAQs"
+            }
+          }
+        },
+        "Studio Offline": {
+          "type": "directory",
+          "children": {
+            "Studio Offline": {
+              "type": "file",
+              "slug": "studio_offline",
+              "name": "Studio Offline"
+            }
+          }
+        },
+        "Studio Projects": {
+          "type": "directory",
+          "children": {
+            "Join a Studio Project": {
+              "type": "directory",
+              "children": {
+                "Join a Studio Project": {
+                  "type": "file",
+                  "slug": "join_a_studio_project",
+                  "name": "Join a Studio Project"
+                }
+              }
+            },
+            "Manage Studio Project Files": {
+              "type": "directory",
+              "children": {
+                "Manage Studio Project Files": {
+                  "type": "file",
+                  "slug": "manage_studio_project_files",
+                  "name": "Manage Studio Project Files"
+                }
+              }
+            },
+            "Manage Studio User Groups": {
+              "type": "directory",
+              "children": {
+                "Manage Studio User Groups": {
+                  "type": "file",
+                  "slug": "manage_studio_user_groups",
+                  "name": "Manage Studio User Groups"
+                }
+              }
+            },
+            "Restoring Project Documents from Previous Revisions": {
+              "type": "directory",
+              "children": {
+                "Restoring Project Documents from Previous Revisions": {
+                  "type": "file",
+                  "slug": "restoring_project_documents_from_previous_revisions",
+                  "name": "Restoring Project Documents from Previous Revisions"
+                }
+              }
+            },
+            "Start a Studio Project": {
+              "type": "directory",
+              "children": {
+                "Start a Studio Project": {
+                  "type": "file",
+                  "slug": "start_a_studio_project",
+                  "name": "Start a Studio Project"
+                }
+              }
+            },
+            "Studio Projects Permissions": {
+              "type": "directory",
+              "children": {
+                "Studio Projects Permissions": {
+                  "type": "file",
+                  "slug": "studio_projects_permissions",
+                  "name": "Studio Projects Permissions"
+                }
+              }
+            },
+            "Studio Projects Tabs": {
+              "type": "directory",
+              "children": {
+                "Studio Projects Tabs": {
+                  "type": "file",
+                  "slug": "studio_projects_tabs",
+                  "name": "Studio Projects Tabs"
+                }
+              }
+            }
+          }
+        },
+        "Studio Sessions": {
+          "type": "directory",
+          "children": {
+            "Attend a Studio Session": {
+              "type": "directory",
+              "children": {
+                "Attend a Studio Session": {
+                  "type": "file",
+                  "slug": "attend_a_studio_session",
+                  "name": "Attend a Studio Session"
+                }
+              }
+            },
+            "Host a Studio Session": {
+              "type": "directory",
+              "children": {
+                "Host a Studio Session": {
+                  "type": "file",
+                  "slug": "host_a_studio_session",
+                  "name": "Host a Studio Session"
+                }
+              }
+            },
+            "Manage Studio Session Files": {
+              "type": "directory",
+              "children": {
+                "Manage Studio Session Files": {
+                  "type": "file",
+                  "slug": "manage_studio_session_files",
+                  "name": "Manage Studio Session Files"
+                }
+              }
+            },
+            "Manage Studio User Groups": {
+              "type": "directory",
+              "children": {
+                "Manage Studio User Groups": {
+                  "type": "file",
+                  "slug": "manage_studio_user_groups",
+                  "name": "Manage Studio User Groups"
+                }
+              }
+            },
+            "Studio Session Permissions": {
+              "type": "directory",
+              "children": {
+                "Studio Session Permissions": {
+                  "type": "file",
+                  "slug": "studio_session_permissions",
+                  "name": "Studio Session Permissions"
+                }
+              }
+            },
+            "The Studio Panel in a Session": {
+              "type": "directory",
+              "children": {
+                "The Studio Panel in a Session": {
+                  "type": "file",
+                  "slug": "the_studio_panel_in_a_session",
+                  "name": "The Studio Panel in a Session"
+                }
+              }
+            }
+          }
+        },
+        "The Studio Panel": {
+          "type": "directory",
+          "children": {
+            "The Studio Panel": {
+              "type": "file",
+              "slug": "the_studio_panel",
+              "name": "The Studio Panel"
+            }
+          }
+        }
+      }
+    },
+    "Revu20": {
+      "type": "directory",
+      "children": {
+        "Collaborative Review Tools": {
+          "type": "directory",
+          "children": {
+            "Attend a Studio Session": {
+              "type": "directory",
+              "children": {
+                "Attend a Studio Session": {
+                  "type": "file",
+                  "slug": "attend_a_studio_session",
+                  "name": "Attend a Studio Session"
+                }
+              }
+            },
+            "Create a Studio Account": {
+              "type": "directory",
+              "children": {
+                "Create a Studio Account": {
+                  "type": "file",
+                  "slug": "create_a_studio_account",
+                  "name": "Create a Studio Account"
+                }
+              }
+            },
+            "Finishing a Studio Session": {
+              "type": "directory",
+              "children": {
+                "Finishing a Studio Session": {
+                  "type": "file",
+                  "slug": "finishing_a_studio_session",
+                  "name": "Finishing a Studio Session"
+                }
+              }
+            },
+            "Hosting a Studio Session": {
+              "type": "directory",
+              "children": {
+                "Invite Users to a Studio Session": {
+                  "type": "directory",
+                  "children": {
+                    "Invite Users to a Studio Session": {
+                      "type": "file",
+                      "slug": "invite_users_to_a_studio_session",
+                      "name": "Invite Users to a Studio Session"
+                    }
+                  }
+                },
+                "Set Studio Session Permissions": {
+                  "type": "directory",
+                  "children": {
+                    "Set Studio Session Permissions": {
+                      "type": "file",
+                      "slug": "set_studio_session_permissions",
+                      "name": "Set Studio Session Permissions"
+                    }
+                  }
+                },
+                "Start a Studio Session": {
+                  "type": "directory",
+                  "children": {
+                    "Start a Studio Session": {
+                      "type": "file",
+                      "slug": "start_a_studio_session",
+                      "name": "Start a Studio Session"
+                    }
+                  }
+                },
+                "Upload PDFs to a Studio Session": {
+                  "type": "directory",
+                  "children": {
+                    "Upload PDFs to a Studio Session": {
+                      "type": "file",
+                      "slug": "upload_pdfs_to_a_studio_session",
+                      "name": "Upload PDFs to a Studio Session"
+                    }
+                  }
+                }
+              }
+            },
+            "Markup Alerts": {
+              "type": "directory",
+              "children": {
+                "Markup Alerts": {
+                  "type": "file",
+                  "slug": "markup_alerts",
+                  "name": "Markup Alerts"
+                }
+              }
+            }
+          }
+        },
+        "Document Management Tools": {
+          "type": "directory",
+          "children": {
+            "Adding Studio Project PDFs to a Session": {
+              "type": "directory",
+              "children": {
+                "Adding Studio Project PDFs to a Session": {
+                  "type": "file",
+                  "slug": "adding_studio_project_pdfs_to_a_session",
+                  "name": "Adding Studio Project PDFs to a Session"
+                }
+              }
+            },
+            "Create a Studio Account": {
+              "type": "directory",
+              "children": {
+                "Create a Studio Account": {
+                  "type": "file",
+                  "slug": "create_a_studio_account",
+                  "name": "Create a Studio Account"
+                }
+              }
+            },
+            "Hosting a Studio Project": {
+              "type": "directory",
+              "children": {
+                "Invite Users to a Studio Project": {
+                  "type": "directory",
+                  "children": {
+                    "Invite Users to a Studio Project": {
+                      "type": "file",
+                      "slug": "invite_users_to_a_studio_project",
+                      "name": "Invite Users to a Studio Project"
+                    }
+                  }
+                },
+                "Set Studio Project Permissions": {
+                  "type": "directory",
+                  "children": {
+                    "Set Studio Project Permissions": {
+                      "type": "file",
+                      "slug": "set_studio_project_permissions",
+                      "name": "Set Studio Project Permissions"
+                    }
+                  }
+                },
+                "Start a Studio Project": {
+                  "type": "directory",
+                  "children": {
+                    "Start a Studio Project": {
+                      "type": "file",
+                      "slug": "start_a_studio_project",
+                      "name": "Start a Studio Project"
+                    }
+                  }
+                },
+                "Upload Files to a Studio Project": {
+                  "type": "directory",
+                  "children": {
+                    "Upload Files to a Studio Project": {
+                      "type": "file",
+                      "slug": "upload_files_to_a_studio_project",
+                      "name": "Upload Files to a Studio Project"
+                    }
+                  }
+                }
+              }
+            },
+            "Join a Studio Project": {
+              "type": "directory",
+              "children": {
+                "Join a Studio Project": {
+                  "type": "file",
+                  "slug": "join_a_studio_project",
+                  "name": "Join a Studio Project"
+                }
+              }
+            },
+            "Sharing Studio Project Files": {
+              "type": "directory",
+              "children": {
+                "Sharing Studio Project Files": {
+                  "type": "file",
+                  "slug": "sharing_studio_project_files",
+                  "name": "Sharing Studio Project Files"
+                }
+              }
+            },
+            "Working with Files in Studio Projects": {
+              "type": "directory",
+              "children": {
+                "Working with Files in Studio Projects": {
+                  "type": "file",
+                  "slug": "working_with_files_in_studio_projects",
+                  "name": "Working with Files in Studio Projects"
+                }
+              }
+            }
+          }
+        },
+        "Drawing Management Tools": {
+          "type": "directory",
+          "children": {
+            "Batch Link": {
+              "type": "directory",
+              "children": {
+                "Batch Link": {
+                  "type": "file",
+                  "slug": "batch_link",
+                  "name": "Batch Link"
+                }
+              }
+            },
+            "Compare Documents": {
+              "type": "directory",
+              "children": {
+                "Compare Documents": {
+                  "type": "file",
+                  "slug": "compare_documents",
+                  "name": "Compare Documents"
+                }
+              }
+            },
+            "Exporting a Drawing Log": {
+              "type": "directory",
+              "children": {
+                "Exporting a Drawing Log": {
+                  "type": "file",
+                  "slug": "exporting_a_drawing_log",
+                  "name": "Exporting a Drawing Log"
+                }
+              }
+            },
+            "Layers": {
+              "type": "directory",
+              "children": {
+                "Layers": {
+                  "type": "file",
+                  "slug": "layers",
+                  "name": "Layers"
+                }
+              }
+            },
+            "Overlay Pages": {
+              "type": "directory",
+              "children": {
+                "Overlay Pages": {
+                  "type": "file",
+                  "slug": "overlay_pages",
+                  "name": "Overlay Pages"
+                }
+              }
+            },
+            "Page Labels": {
+              "type": "directory",
+              "children": {
+                "Page Labels": {
+                  "type": "file",
+                  "slug": "page_labels",
+                  "name": "Page Labels"
+                }
+              }
+            },
+            "Sets": {
+              "type": "directory",
+              "children": {
+                "Exporting a Drawing Log": {
+                  "type": "directory",
+                  "children": {
+                    "Exporting a Drawing Log": {
+                      "type": "file",
+                      "slug": "exporting_a_drawing_log",
+                      "name": "Exporting a Drawing Log"
+                    }
+                  }
+                },
+                "Working with Sets": {
+                  "type": "directory",
+                  "children": {
+                    "Working with Sets": {
+                      "type": "file",
+                      "slug": "working_with_sets",
+                      "name": "Working with Sets"
+                    }
+                  }
+                },
+                "Working with Tags": {
+                  "type": "directory",
+                  "children": {
+                    "Working with Tags": {
+                      "type": "file",
+                      "slug": "working_with_tags",
+                      "name": "Working with Tags"
+                    }
+                  }
+                }
+              }
+            },
+            "Split View": {
+              "type": "directory",
+              "children": {
+                "Split View": {
+                  "type": "file",
+                  "slug": "split_view",
+                  "name": "Split View"
+                }
+              }
+            },
+            "Working with Sets": {
+              "type": "directory",
+              "children": {
+                "Working with Sets": {
+                  "type": "file",
+                  "slug": "working_with_sets",
+                  "name": "Working with Sets"
+                }
+              }
+            },
+            "Working with Tags": {
+              "type": "directory",
+              "children": {
+                "Working with Tags": {
+                  "type": "file",
+                  "slug": "working_with_tags",
+                  "name": "Working with Tags"
+                }
+              }
+            }
+          }
+        },
+        "Field Issues Tools": {
+          "type": "directory",
+          "children": {
+            "Batch Summary": {
+              "type": "directory",
+              "children": {
+                "Batch Summary": {
+                  "type": "file",
+                  "slug": "batch_summary",
+                  "name": "Batch Summary"
+                }
+              }
+            },
+            "Creating a Punch List with the Markups List": {
+              "type": "directory",
+              "children": {
+                "Creating a Punch List with the Markups List": {
+                  "type": "file",
+                  "slug": "creating_a_punch_list_with_the_markups_list",
+                  "name": "Creating a Punch List with the Markups List"
+                }
+              }
+            },
+            "Custom Columns in the Markups List": {
+              "type": "directory",
+              "children": {
+                "Custom Columns in the Markups List": {
+                  "type": "file",
+                  "slug": "custom_columns_in_the_markups_list",
+                  "name": "Custom Columns in the Markups List"
+                }
+              }
+            },
+            "Custom Statuses in the Markups List": {
+              "type": "directory",
+              "children": {
+                "Custom Statuses in the Markups List": {
+                  "type": "file",
+                  "slug": "custom_statuses_in_the_markups_list",
+                  "name": "Custom Statuses in the Markups List"
+                }
+              }
+            },
+            "Markups List": {
+              "type": "directory",
+              "children": {
+                "Markups List": {
+                  "type": "file",
+                  "slug": "markups_list",
+                  "name": "Markups List"
+                }
+              }
+            },
+            "Spaces": {
+              "type": "directory",
+              "children": {
+                "Spaces": {
+                  "type": "file",
+                  "slug": "spaces",
+                  "name": "Spaces"
+                }
+              }
+            },
+            "Using Revu on a Tablet PC": {
+              "type": "directory",
+              "children": {
+                "Using Revu on a Tablet PC": {
+                  "type": "file",
+                  "slug": "using_revu_on_a_tablet_pc",
+                  "name": "Using Revu on a Tablet PC"
+                }
+              }
+            }
+          }
+        },
+        "Markup Tools": {
+          "type": "directory",
+          "children": {
+            "Forms": {
+              "type": "directory",
+              "children": {
+                "Creating Forms": {
+                  "type": "directory",
+                  "children": {
+                    "Creating Forms": {
+                      "type": "file",
+                      "slug": "creating_forms",
+                      "name": "Creating Forms"
+                    }
+                  }
+                },
+                "Form Fields": {
+                  "type": "directory",
+                  "children": {
+                    "Form Fields": {
+                      "type": "file",
+                      "slug": "form_fields",
+                      "name": "Form Fields"
+                    }
+                  }
+                },
+                "Forms": {
+                  "type": "directory",
+                  "children": {
+                    "Forms": {
+                      "type": "file",
+                      "slug": "forms",
+                      "name": "Forms"
+                    }
+                  }
+                },
+                "Using PDF Forms": {
+                  "type": "directory",
+                  "children": {
+                    "Using PDF Forms": {
+                      "type": "file",
+                      "slug": "using_pdf_forms",
+                      "name": "Using PDF Forms"
+                    }
+                  }
+                }
+              }
+            },
+            "Image Markups": {
+              "type": "directory",
+              "children": {
+                "Camera Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Camera Tool": {
+                      "type": "file",
+                      "slug": "camera_tool",
+                      "name": "Camera Tool"
+                    }
+                  }
+                },
+                "Crop Image": {
+                  "type": "directory",
+                  "children": {
+                    "Crop Image": {
+                      "type": "file",
+                      "slug": "crop_image",
+                      "name": "Crop Image"
+                    }
+                  }
+                },
+                "Embedded Markup Media": {
+                  "type": "directory",
+                  "children": {
+                    "Embedded Markup Media": {
+                      "type": "file",
+                      "slug": "embedded_markup_media",
+                      "name": "Embedded Markup Media"
+                    }
+                  }
+                },
+                "Image Markups": {
+                  "type": "directory",
+                  "children": {
+                    "Image Markups": {
+                      "type": "file",
+                      "slug": "image_markups",
+                      "name": "Image Markups"
+                    }
+                  }
+                }
+              }
+            },
+            "Markups List": {
+              "type": "directory",
+              "children": {
+                "Managing and Creating Columns in the Markups List": {
+                  "type": "directory",
+                  "children": {
+                    "Managing and Creating Columns in the Markups List": {
+                      "type": "file",
+                      "slug": "managing_and_creating_columns_in_the_markups_list",
+                      "name": "Managing and Creating Columns in the Markups List"
+                    }
+                  }
+                },
+                "Markups List": {
+                  "type": "directory",
+                  "children": {
+                    "Markups List": {
+                      "type": "file",
+                      "slug": "markups_list",
+                      "name": "Markups List"
+                    }
+                  }
+                },
+                "Status in the Markups List": {
+                  "type": "directory",
+                  "children": {
+                    "Status in the Markups List": {
+                      "type": "file",
+                      "slug": "status_in_the_markups_list",
+                      "name": "Status in the Markups List"
+                    }
+                  }
+                },
+                "Using the Markups List": {
+                  "type": "directory",
+                  "children": {
+                    "Using the Markups List": {
+                      "type": "file",
+                      "slug": "using_the_markups_list",
+                      "name": "Using the Markups List"
+                    }
+                  }
+                }
+              }
+            },
+            "Measurement Markups": {
+              "type": "directory",
+              "children": {
+                "Angle Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Angle Measurement": {
+                      "type": "file",
+                      "slug": "angle_measurement",
+                      "name": "Angle Measurement"
+                    }
+                  }
+                },
+                "Area Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Area Measurement": {
+                      "type": "file",
+                      "slug": "area_measurement",
+                      "name": "Area Measurement"
+                    }
+                  }
+                },
+                "Center Radius Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Center Radius Measurement": {
+                      "type": "file",
+                      "slug": "center_radius_measurement",
+                      "name": "Center Radius Measurement"
+                    }
+                  }
+                },
+                "Count Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Count Tool": {
+                      "type": "file",
+                      "slug": "count_tool",
+                      "name": "Count Tool"
+                    }
+                  }
+                },
+                "Cutout Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Cutout Tool": {
+                      "type": "file",
+                      "slug": "cutout_tool",
+                      "name": "Cutout Tool"
+                    }
+                  }
+                },
+                "Diameter Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Diameter Measurement": {
+                      "type": "file",
+                      "slug": "diameter_measurement",
+                      "name": "Diameter Measurement"
+                    }
+                  }
+                },
+                "Dynamic Fill": {
+                  "type": "directory",
+                  "children": {
+                    "Dynamic Fill": {
+                      "type": "file",
+                      "slug": "dynamic_fill",
+                      "name": "Dynamic Fill"
+                    }
+                  }
+                },
+                "Length Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Length Measurement": {
+                      "type": "file",
+                      "slug": "length_measurement",
+                      "name": "Length Measurement"
+                    }
+                  }
+                },
+                "Measure Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Measure Tool": {
+                      "type": "file",
+                      "slug": "measure_tool",
+                      "name": "Measure Tool"
+                    }
+                  }
+                },
+                "Perimeter Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Perimeter Measurement": {
+                      "type": "file",
+                      "slug": "perimeter_measurement",
+                      "name": "Perimeter Measurement"
+                    }
+                  }
+                },
+                "Polylength Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Polylength Measurement": {
+                      "type": "file",
+                      "slug": "polylength_measurement",
+                      "name": "Polylength Measurement"
+                    }
+                  }
+                },
+                "Setting Page Scales": {
+                  "type": "directory",
+                  "children": {
+                    "Setting Page Scales": {
+                      "type": "file",
+                      "slug": "setting_page_scales",
+                      "name": "Setting Page Scales"
+                    }
+                  }
+                },
+                "Three-Point Radius Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Three-Point Radius Measurement": {
+                      "type": "file",
+                      "slug": "threepoint_radius_measurement",
+                      "name": "Three-Point Radius Measurement"
+                    }
+                  }
+                },
+                "Volume Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Volume Measurement": {
+                      "type": "file",
+                      "slug": "volume_measurement",
+                      "name": "Volume Measurement"
+                    }
+                  }
+                }
+              }
+            },
+            "Shape Markups": {
+              "type": "directory",
+              "children": {
+                "Arc Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Arc Tool": {
+                      "type": "file",
+                      "slug": "arc_tool",
+                      "name": "Arc Tool"
+                    }
+                  }
+                },
+                "Arrow Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Arrow Tool": {
+                      "type": "file",
+                      "slug": "arrow_tool",
+                      "name": "Arrow Tool"
+                    }
+                  }
+                },
+                "Callout Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Callout Tool": {
+                      "type": "file",
+                      "slug": "callout_tool",
+                      "name": "Callout Tool"
+                    }
+                  }
+                },
+                "Cloud Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Cloud Tool": {
+                      "type": "file",
+                      "slug": "cloud_tool",
+                      "name": "Cloud Tool"
+                    }
+                  }
+                },
+                "Cloud+ Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Cloud+ Tool": {
+                      "type": "file",
+                      "slug": "cloud_tool",
+                      "name": "Cloud+ Tool"
+                    }
+                  }
+                },
+                "Dimension Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Dimension Tool": {
+                      "type": "file",
+                      "slug": "dimension_tool",
+                      "name": "Dimension Tool"
+                    }
+                  }
+                },
+                "Dynamic Fill": {
+                  "type": "directory",
+                  "children": {
+                    "Dynamic Fill": {
+                      "type": "file",
+                      "slug": "dynamic_fill",
+                      "name": "Dynamic Fill"
+                    }
+                  }
+                },
+                "Ellipse Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Ellipse Tool": {
+                      "type": "file",
+                      "slug": "ellipse_tool",
+                      "name": "Ellipse Tool"
+                    }
+                  }
+                },
+                "Highlight Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Highlight Tool": {
+                      "type": "file",
+                      "slug": "highlight_tool",
+                      "name": "Highlight Tool"
+                    }
+                  }
+                },
+                "Line Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Line Tool": {
+                      "type": "file",
+                      "slug": "line_tool",
+                      "name": "Line Tool"
+                    }
+                  }
+                },
+                "Pen Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Pen Tool": {
+                      "type": "file",
+                      "slug": "pen_tool",
+                      "name": "Pen Tool"
+                    }
+                  }
+                },
+                "Polygon  Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Polygon  Tool": {
+                      "type": "file",
+                      "slug": "polygon_tool",
+                      "name": "Polygon  Tool"
+                    }
+                  }
+                },
+                "Polyline Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Polyline Tool": {
+                      "type": "file",
+                      "slug": "polyline_tool",
+                      "name": "Polyline Tool"
+                    }
+                  }
+                },
+                "Rectangle Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Rectangle Tool": {
+                      "type": "file",
+                      "slug": "rectangle_tool",
+                      "name": "Rectangle Tool"
+                    }
+                  }
+                }
+              }
+            },
+            "Sketch-to-Scale Markups": {
+              "type": "directory",
+              "children": {
+                "Ellipse Sketch Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Ellipse Sketch Tool": {
+                      "type": "file",
+                      "slug": "ellipse_sketch_tool",
+                      "name": "Ellipse Sketch Tool"
+                    }
+                  }
+                },
+                "Polygon Sketch Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Polygon Sketch Tool": {
+                      "type": "file",
+                      "slug": "polygon_sketch_tool",
+                      "name": "Polygon Sketch Tool"
+                    }
+                  }
+                },
+                "Polyline Sketch Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Polyline Sketch Tool": {
+                      "type": "file",
+                      "slug": "polyline_sketch_tool",
+                      "name": "Polyline Sketch Tool"
+                    }
+                  }
+                },
+                "Rectangle Sketch Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Rectangle Sketch Tool": {
+                      "type": "file",
+                      "slug": "rectangle_sketch_tool",
+                      "name": "Rectangle Sketch Tool"
+                    }
+                  }
+                },
+                "Scaling a Tool Set": {
+                  "type": "directory",
+                  "children": {
+                    "Scaling a Tool Set": {
+                      "type": "file",
+                      "slug": "scaling_a_tool_set",
+                      "name": "Scaling a Tool Set"
+                    }
+                  }
+                }
+              }
+            },
+            "Stamps": {
+              "type": "directory",
+              "children": {
+                "Stamp Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Stamp Tool": {
+                      "type": "file",
+                      "slug": "stamp_tool",
+                      "name": "Stamp Tool"
+                    }
+                  }
+                },
+                "Working with Stamps": {
+                  "type": "directory",
+                  "children": {
+                    "Working with Stamps": {
+                      "type": "file",
+                      "slug": "working_with_stamps",
+                      "name": "Working with Stamps"
+                    }
+                  }
+                }
+              }
+            },
+            "Text Markups": {
+              "type": "directory",
+              "children": {
+                "Callout Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Callout Tool": {
+                      "type": "file",
+                      "slug": "callout_tool",
+                      "name": "Callout Tool"
+                    }
+                  }
+                },
+                "Editing and Reviewing Text": {
+                  "type": "directory",
+                  "children": {
+                    "Editing and Reviewing Text": {
+                      "type": "file",
+                      "slug": "editing_and_reviewing_text",
+                      "name": "Editing and Reviewing Text"
+                    }
+                  }
+                },
+                "Eraser Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Eraser Tool": {
+                      "type": "file",
+                      "slug": "eraser_tool",
+                      "name": "Eraser Tool"
+                    }
+                  }
+                },
+                "Text Box Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Text Box Tool": {
+                      "type": "file",
+                      "slug": "text_box_tool",
+                      "name": "Text Box Tool"
+                    }
+                  }
+                },
+                "Typewriter Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Typewriter Tool": {
+                      "type": "file",
+                      "slug": "typewriter_tool",
+                      "name": "Typewriter Tool"
+                    }
+                  }
+                }
+              }
+            },
+            "Working With Markups": {
+              "type": "directory",
+              "children": {
+                "Aligning Markups": {
+                  "type": "directory",
+                  "children": {
+                    "Aligning Markups": {
+                      "type": "file",
+                      "slug": "aligning_markups",
+                      "name": "Aligning Markups"
+                    }
+                  }
+                },
+                "Custom Hatch Patterns": {
+                  "type": "directory",
+                  "children": {
+                    "Custom Hatch Patterns": {
+                      "type": "file",
+                      "slug": "custom_hatch_patterns",
+                      "name": "Custom Hatch Patterns"
+                    }
+                  }
+                },
+                "Custom Line Styles": {
+                  "type": "directory",
+                  "children": {
+                    "Custom Line Styles": {
+                      "type": "file",
+                      "slug": "custom_line_styles",
+                      "name": "Custom Line Styles"
+                    }
+                  }
+                },
+                "Editing Markups": {
+                  "type": "directory",
+                  "children": {
+                    "Editing Markups": {
+                      "type": "file",
+                      "slug": "editing_markups",
+                      "name": "Editing Markups"
+                    }
+                  }
+                },
+                "Flattening Markups": {
+                  "type": "directory",
+                  "children": {
+                    "Flattening Markups": {
+                      "type": "file",
+                      "slug": "flattening_markups",
+                      "name": "Flattening Markups"
+                    }
+                  }
+                },
+                "Grouping Markups": {
+                  "type": "directory",
+                  "children": {
+                    "Grouping Markups": {
+                      "type": "file",
+                      "slug": "grouping_markups",
+                      "name": "Grouping Markups"
+                    }
+                  }
+                },
+                "Legend": {
+                  "type": "directory",
+                  "children": {
+                    "Legend": {
+                      "type": "file",
+                      "slug": "legend",
+                      "name": "Legend"
+                    }
+                  }
+                },
+                "Showing the Centroid": {
+                  "type": "directory",
+                  "children": {
+                    "Showing the Centroid": {
+                      "type": "file",
+                      "slug": "showing_the_centroid",
+                      "name": "Showing the Centroid"
+                    }
+                  }
+                },
+                "Working with Control Points": {
+                  "type": "directory",
+                  "children": {
+                    "Working with Control Points": {
+                      "type": "file",
+                      "slug": "working_with_control_points",
+                      "name": "Working with Control Points"
+                    }
+                  }
+                },
+                "Working with Curved Markups": {
+                  "type": "directory",
+                  "children": {
+                    "Working with Curved Markups": {
+                      "type": "file",
+                      "slug": "working_with_curved_markups",
+                      "name": "Working with Curved Markups"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "PDF Tools": {
+          "type": "directory",
+          "children": {
+            "Batch Tools": {
+              "type": "directory",
+              "children": {
+                "Batch Apply Stamp": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Apply Stamp": {
+                      "type": "file",
+                      "slug": "batch_apply_stamp",
+                      "name": "Batch Apply Stamp"
+                    }
+                  }
+                },
+                "Batch Compare Documents": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Compare Documents": {
+                      "type": "file",
+                      "slug": "batch_compare_documents",
+                      "name": "Batch Compare Documents"
+                    }
+                  }
+                },
+                "Batch Crop and Page Setup": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Crop and Page Setup": {
+                      "type": "file",
+                      "slug": "batch_crop_and_page_setup",
+                      "name": "Batch Crop and Page Setup"
+                    }
+                  }
+                },
+                "Batch Link": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Link": {
+                      "type": "file",
+                      "slug": "batch_link",
+                      "name": "Batch Link"
+                    }
+                  }
+                },
+                "Batch Menu": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Menu": {
+                      "type": "file",
+                      "slug": "batch_menu",
+                      "name": "Batch Menu"
+                    }
+                  }
+                },
+                "Batch Overlay": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Overlay": {
+                      "type": "file",
+                      "slug": "batch_overlay",
+                      "name": "Batch Overlay"
+                    }
+                  }
+                },
+                "Batch Print": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Print": {
+                      "type": "file",
+                      "slug": "batch_print",
+                      "name": "Batch Print"
+                    }
+                  }
+                },
+                "Batch Processing Headers and Footers": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Processing Headers and Footers": {
+                      "type": "file",
+                      "slug": "batch_processing_headers_and_footers",
+                      "name": "Batch Processing Headers and Footers"
+                    }
+                  }
+                },
+                "Batch Sign & Seal": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Sign & Seal": {
+                      "type": "file",
+                      "slug": "batch_sign__seal",
+                      "name": "Batch Sign & Seal"
+                    }
+                  }
+                },
+                "Batch Slip Sheet": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Slip Sheet": {
+                      "type": "file",
+                      "slug": "batch_slip_sheet",
+                      "name": "Batch Slip Sheet"
+                    }
+                  }
+                },
+                "Markup Summary": {
+                  "type": "directory",
+                  "children": {
+                    "Markup Summary": {
+                      "type": "file",
+                      "slug": "markup_summary",
+                      "name": "Markup Summary"
+                    }
+                  }
+                }
+              }
+            },
+            "Compare & Overlay": {
+              "type": "directory",
+              "children": {
+                "Batch Compare Documents": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Compare Documents": {
+                      "type": "file",
+                      "slug": "batch_compare_documents",
+                      "name": "Batch Compare Documents"
+                    }
+                  }
+                },
+                "Batch Overlay": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Overlay": {
+                      "type": "file",
+                      "slug": "batch_overlay",
+                      "name": "Batch Overlay"
+                    }
+                  }
+                },
+                "Comparing Documents": {
+                  "type": "directory",
+                  "children": {
+                    "Comparing Documents": {
+                      "type": "file",
+                      "slug": "comparing_documents",
+                      "name": "Comparing Documents"
+                    }
+                  }
+                },
+                "Overlay Pages": {
+                  "type": "directory",
+                  "children": {
+                    "Overlay Pages": {
+                      "type": "file",
+                      "slug": "overlay_pages",
+                      "name": "Overlay Pages"
+                    }
+                  }
+                }
+              }
+            },
+            "Forms & OCR": {
+              "type": "directory",
+              "children": {
+                "Form Fields": {
+                  "type": "directory",
+                  "children": {
+                    "Form Fields": {
+                      "type": "file",
+                      "slug": "form_fields",
+                      "name": "Form Fields"
+                    }
+                  }
+                },
+                "Forms": {
+                  "type": "directory",
+                  "children": {
+                    "Forms": {
+                      "type": "file",
+                      "slug": "forms",
+                      "name": "Forms"
+                    }
+                  }
+                },
+                "OCR": {
+                  "type": "directory",
+                  "children": {
+                    "OCR": {
+                      "type": "file",
+                      "slug": "ocr",
+                      "name": "OCR"
+                    }
+                  }
+                },
+                "Using PDF Forms": {
+                  "type": "directory",
+                  "children": {
+                    "Using PDF Forms": {
+                      "type": "file",
+                      "slug": "using_pdf_forms",
+                      "name": "Using PDF Forms"
+                    }
+                  }
+                }
+              }
+            },
+            "Headers and Footers": {
+              "type": "directory",
+              "children": {
+                "Batch Processing Headers and Footers": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Processing Headers and Footers": {
+                      "type": "file",
+                      "slug": "batch_processing_headers_and_footers",
+                      "name": "Batch Processing Headers and Footers"
+                    }
+                  }
+                },
+                "Creating Headers and Footers": {
+                  "type": "directory",
+                  "children": {
+                    "Creating Headers and Footers": {
+                      "type": "file",
+                      "slug": "creating_headers_and_footers",
+                      "name": "Creating Headers and Footers"
+                    }
+                  }
+                }
+              }
+            },
+            "Page Setup": {
+              "type": "directory",
+              "children": {
+                "Batch Crop and Page Setup": {
+                  "type": "directory",
+                  "children": {
+                    "Batch Crop and Page Setup": {
+                      "type": "file",
+                      "slug": "batch_crop_and_page_setup",
+                      "name": "Batch Crop and Page Setup"
+                    }
+                  }
+                },
+                "Deleting Pages": {
+                  "type": "directory",
+                  "children": {
+                    "Deleting Pages": {
+                      "type": "file",
+                      "slug": "deleting_pages",
+                      "name": "Deleting Pages"
+                    }
+                  }
+                },
+                "Deskewing PDF Content": {
+                  "type": "directory",
+                  "children": {
+                    "Deskewing PDF Content": {
+                      "type": "file",
+                      "slug": "deskewing_pdf_content",
+                      "name": "Deskewing PDF Content"
+                    }
+                  }
+                },
+                "Editing Page Labels and Page Numbering": {
+                  "type": "directory",
+                  "children": {
+                    "Editing Page Labels and Page Numbering": {
+                      "type": "file",
+                      "slug": "editing_page_labels_and_page_numbering",
+                      "name": "Editing Page Labels and Page Numbering"
+                    }
+                  }
+                },
+                "Extracting Pages": {
+                  "type": "directory",
+                  "children": {
+                    "Extracting Pages": {
+                      "type": "file",
+                      "slug": "extracting_pages",
+                      "name": "Extracting Pages"
+                    }
+                  }
+                },
+                "Inserting Pages into a PDF": {
+                  "type": "directory",
+                  "children": {
+                    "Inserting Pages into a PDF": {
+                      "type": "file",
+                      "slug": "inserting_pages_into_a_pdf",
+                      "name": "Inserting Pages into a PDF"
+                    }
+                  }
+                },
+                "Replace Pages": {
+                  "type": "directory",
+                  "children": {
+                    "Replace Pages": {
+                      "type": "file",
+                      "slug": "replace_pages",
+                      "name": "Replace Pages"
+                    }
+                  }
+                },
+                "Rotate Pages": {
+                  "type": "directory",
+                  "children": {
+                    "Rotate Pages": {
+                      "type": "file",
+                      "slug": "rotate_pages",
+                      "name": "Rotate Pages"
+                    }
+                  }
+                },
+                "Split Document": {
+                  "type": "directory",
+                  "children": {
+                    "Split Document": {
+                      "type": "file",
+                      "slug": "split_document",
+                      "name": "Split Document"
+                    }
+                  }
+                }
+              }
+            },
+            "PDF Security": {
+              "type": "directory",
+              "children": {
+                "Certifying a Document": {
+                  "type": "directory",
+                  "children": {
+                    "Certifying a Document": {
+                      "type": "file",
+                      "slug": "certifying_a_document",
+                      "name": "Certifying a Document"
+                    }
+                  }
+                },
+                "PDF Security": {
+                  "type": "directory",
+                  "children": {
+                    "PDF Security": {
+                      "type": "file",
+                      "slug": "pdf_security",
+                      "name": "PDF Security"
+                    }
+                  }
+                },
+                "Working with Digital Signatures": {
+                  "type": "directory",
+                  "children": {
+                    "Working with Digital Signatures": {
+                      "type": "file",
+                      "slug": "working_with_digital_signatures",
+                      "name": "Working with Digital Signatures"
+                    }
+                  }
+                }
+              }
+            },
+            "Reduce, Repair, & Archive": {
+              "type": "directory",
+              "children": {
+                "PDF_A-1b Archives": {
+                  "type": "directory",
+                  "children": {
+                    "PDF_A-1b Archives": {
+                      "type": "file",
+                      "slug": "pdf_a1b_archives",
+                      "name": "PDF_A-1b Archives"
+                    }
+                  }
+                },
+                "Reduce File Size": {
+                  "type": "directory",
+                  "children": {
+                    "Reduce File Size": {
+                      "type": "file",
+                      "slug": "reduce_file_size",
+                      "name": "Reduce File Size"
+                    }
+                  }
+                },
+                "Repair PDF": {
+                  "type": "directory",
+                  "children": {
+                    "Repair PDF": {
+                      "type": "file",
+                      "slug": "repair_pdf",
+                      "name": "Repair PDF"
+                    }
+                  }
+                }
+              }
+            },
+            "Scripting": {
+              "type": "directory",
+              "children": {
+                "Using Scripts in Revu": {
+                  "type": "directory",
+                  "children": {
+                    "Using Scripts in Revu": {
+                      "type": "file",
+                      "slug": "using_scripts_in_revu",
+                      "name": "Using Scripts in Revu"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Quantity Takeoff Tools": {
+          "type": "directory",
+          "children": {
+            "Custom Markups and Tool Sets": {
+              "type": "directory",
+              "children": {
+                "Creating a New Tool Set": {
+                  "type": "directory",
+                  "children": {
+                    "Creating a New Tool Set": {
+                      "type": "file",
+                      "slug": "creating_a_new_tool_set",
+                      "name": "Creating a New Tool Set"
+                    }
+                  }
+                },
+                "Custom Hatch Patterns": {
+                  "type": "directory",
+                  "children": {
+                    "Custom Hatch Patterns": {
+                      "type": "file",
+                      "slug": "custom_hatch_patterns",
+                      "name": "Custom Hatch Patterns"
+                    }
+                  }
+                },
+                "Custom Line Styles": {
+                  "type": "directory",
+                  "children": {
+                    "Custom Line Styles": {
+                      "type": "file",
+                      "slug": "custom_line_styles",
+                      "name": "Custom Line Styles"
+                    }
+                  }
+                },
+                "Customizing Markups": {
+                  "type": "directory",
+                  "children": {
+                    "Customizing Markups": {
+                      "type": "file",
+                      "slug": "customizing_markups",
+                      "name": "Customizing Markups"
+                    }
+                  }
+                },
+                "Grouping Markups": {
+                  "type": "directory",
+                  "children": {
+                    "Grouping Markups": {
+                      "type": "file",
+                      "slug": "grouping_markups",
+                      "name": "Grouping Markups"
+                    }
+                  }
+                },
+                "Legend": {
+                  "type": "directory",
+                  "children": {
+                    "Legend": {
+                      "type": "file",
+                      "slug": "legend",
+                      "name": "Legend"
+                    }
+                  }
+                },
+                "Sequences": {
+                  "type": "directory",
+                  "children": {
+                    "Sequences": {
+                      "type": "file",
+                      "slug": "sequences",
+                      "name": "Sequences"
+                    }
+                  }
+                }
+              }
+            },
+            "Legend": {
+              "type": "directory",
+              "children": {
+                "Legend": {
+                  "type": "file",
+                  "slug": "legend",
+                  "name": "Legend"
+                }
+              }
+            },
+            "Measurement Markups": {
+              "type": "directory",
+              "children": {
+                "Angle Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Angle Measurement": {
+                      "type": "file",
+                      "slug": "angle_measurement",
+                      "name": "Angle Measurement"
+                    }
+                  }
+                },
+                "Area Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Area Measurement": {
+                      "type": "file",
+                      "slug": "area_measurement",
+                      "name": "Area Measurement"
+                    }
+                  }
+                },
+                "Center Radius Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Center Radius Measurement": {
+                      "type": "file",
+                      "slug": "center_radius_measurement",
+                      "name": "Center Radius Measurement"
+                    }
+                  }
+                },
+                "Count Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Count Tool": {
+                      "type": "file",
+                      "slug": "count_tool",
+                      "name": "Count Tool"
+                    }
+                  }
+                },
+                "Cutout Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Cutout Tool": {
+                      "type": "file",
+                      "slug": "cutout_tool",
+                      "name": "Cutout Tool"
+                    }
+                  }
+                },
+                "Diameter Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Diameter Measurement": {
+                      "type": "file",
+                      "slug": "diameter_measurement",
+                      "name": "Diameter Measurement"
+                    }
+                  }
+                },
+                "Dynamic Fill": {
+                  "type": "directory",
+                  "children": {
+                    "Dynamic Fill": {
+                      "type": "file",
+                      "slug": "dynamic_fill",
+                      "name": "Dynamic Fill"
+                    }
+                  }
+                },
+                "Length Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Length Measurement": {
+                      "type": "file",
+                      "slug": "length_measurement",
+                      "name": "Length Measurement"
+                    }
+                  }
+                },
+                "Measure Tool": {
+                  "type": "directory",
+                  "children": {
+                    "Measure Tool": {
+                      "type": "file",
+                      "slug": "measure_tool",
+                      "name": "Measure Tool"
+                    }
+                  }
+                },
+                "Perimeter Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Perimeter Measurement": {
+                      "type": "file",
+                      "slug": "perimeter_measurement",
+                      "name": "Perimeter Measurement"
+                    }
+                  }
+                },
+                "Polylength Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Polylength Measurement": {
+                      "type": "file",
+                      "slug": "polylength_measurement",
+                      "name": "Polylength Measurement"
+                    }
+                  }
+                },
+                "Three-Point Radius Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Three-Point Radius Measurement": {
+                      "type": "file",
+                      "slug": "threepoint_radius_measurement",
+                      "name": "Three-Point Radius Measurement"
+                    }
+                  }
+                },
+                "Volume Measurement": {
+                  "type": "directory",
+                  "children": {
+                    "Volume Measurement": {
+                      "type": "file",
+                      "slug": "volume_measurement",
+                      "name": "Volume Measurement"
+                    }
+                  }
+                }
+              }
+            },
+            "Measurements Panel": {
+              "type": "directory",
+              "children": {
+                "Measurements Panel": {
+                  "type": "file",
+                  "slug": "measurements_panel",
+                  "name": "Measurements Panel"
+                }
+              }
+            },
+            "Organizing and Summarizing Results": {
+              "type": "directory",
+              "children": {
+                "Organizing and Summarizing Results": {
+                  "type": "file",
+                  "slug": "organizing_and_summarizing_results",
+                  "name": "Organizing and Summarizing Results"
+                }
+              }
+            },
+            "Properties Toolbar": {
+              "type": "directory",
+              "children": {
+                "Properties Toolbar": {
+                  "type": "file",
+                  "slug": "properties_toolbar",
+                  "name": "Properties Toolbar"
+                }
+              }
+            },
+            "Rulers": {
+              "type": "directory",
+              "children": {
+                "Rulers": {
+                  "type": "file",
+                  "slug": "rulers",
+                  "name": "Rulers"
+                }
+              }
+            },
+            "Searching PDFs": {
+              "type": "directory",
+              "children": {
+                "Searching PDFs": {
+                  "type": "file",
+                  "slug": "searching_pdfs",
+                  "name": "Searching PDFs"
+                }
+              }
+            },
+            "Setting Page Scales": {
+              "type": "directory",
+              "children": {
+                "Setting Page Scales": {
+                  "type": "file",
+                  "slug": "setting_page_scales",
+                  "name": "Setting Page Scales"
+                }
+              }
+            },
+            "The Markups List": {
+              "type": "directory",
+              "children": {
+                "Generating a Capture Summary": {
+                  "type": "directory",
+                  "children": {
+                    "Generating a Capture Summary": {
+                      "type": "file",
+                      "slug": "generating_a_capture_summary",
+                      "name": "Generating a Capture Summary"
+                    }
+                  }
+                },
+                "Managing and Creating Columns in the Markups List": {
+                  "type": "directory",
+                  "children": {
+                    "Managing and Creating Columns in the Markups List": {
+                      "type": "file",
+                      "slug": "managing_and_creating_columns_in_the_markups_list",
+                      "name": "Managing and Creating Columns in the Markups List"
+                    }
+                  }
+                },
+                "Markups List": {
+                  "type": "directory",
+                  "children": {
+                    "Markups List": {
+                      "type": "file",
+                      "slug": "markups_list",
+                      "name": "Markups List"
+                    }
+                  }
+                },
+                "Organizing and Summarizing Results": {
+                  "type": "directory",
+                  "children": {
+                    "Organizing and Summarizing Results": {
+                      "type": "file",
+                      "slug": "organizing_and_summarizing_results",
+                      "name": "Organizing and Summarizing Results"
+                    }
+                  }
+                },
+                "Using and Creating Filters in the Markups List": {
+                  "type": "directory",
+                  "children": {
+                    "Using and Creating Filters in the Markups List": {
+                      "type": "file",
+                      "slug": "using_and_creating_filters_in_the_markups_list",
+                      "name": "Using and Creating Filters in the Markups List"
+                    }
+                  }
+                },
+                "Using Custom Columns for Quantity Takeoffs": {
+                  "type": "directory",
+                  "children": {
+                    "Using Custom Columns for Quantity Takeoffs": {
+                      "type": "file",
+                      "slug": "using_custom_columns_for_quantity_takeoffs",
+                      "name": "Using Custom Columns for Quantity Takeoffs"
+                    }
+                  }
+                },
+                "Using the Markups List": {
+                  "type": "directory",
+                  "children": {
+                    "Using the Markups List": {
+                      "type": "file",
+                      "slug": "using_the_markups_list",
+                      "name": "Using the Markups List"
+                    }
+                  }
+                }
+              }
+            },
+            "Tool Chest Panel": {
+              "type": "directory",
+              "children": {
+                "Tool Chest Panel": {
+                  "type": "file",
+                  "slug": "tool_chest_panel",
+                  "name": "Tool Chest Panel"
+                }
+              }
+            }
+          }
+        },
+        "Studio Tools": {
+          "type": "directory",
+          "children": {
+            "Create a Studio Account": {
+              "type": "directory",
+              "children": {
+                "Create a Studio Account": {
+                  "type": "file",
+                  "slug": "create_a_studio_account",
+                  "name": "Create a Studio Account"
+                }
+              }
+            },
+            "Manage Studio Servers": {
+              "type": "directory",
+              "children": {
+                "Manage Studio Servers": {
+                  "type": "file",
+                  "slug": "manage_studio_servers",
+                  "name": "Manage Studio Servers"
+                }
+              }
+            },
+            "Studio FAQs": {
+              "type": "directory",
+              "children": {
+                "Studio FAQs": {
+                  "type": "file",
+                  "slug": "studio_faqs",
+                  "name": "Studio FAQs"
+                }
+              }
+            },
+            "Studio Offline": {
+              "type": "directory",
+              "children": {
+                "Studio Offline": {
+                  "type": "file",
+                  "slug": "studio_offline",
+                  "name": "Studio Offline"
+                }
+              }
+            },
+            "Studio Projects": {
+              "type": "directory",
+              "children": {
+                "Join a Studio Project": {
+                  "type": "directory",
+                  "children": {
+                    "Join a Studio Project": {
+                      "type": "file",
+                      "slug": "join_a_studio_project",
+                      "name": "Join a Studio Project"
+                    }
+                  }
+                },
+                "Manage Studio Project Files": {
+                  "type": "directory",
+                  "children": {
+                    "Manage Studio Project Files": {
+                      "type": "file",
+                      "slug": "manage_studio_project_files",
+                      "name": "Manage Studio Project Files"
+                    }
+                  }
+                },
+                "Manage Studio User Groups": {
+                  "type": "directory",
+                  "children": {
+                    "Manage Studio User Groups": {
+                      "type": "file",
+                      "slug": "manage_studio_user_groups",
+                      "name": "Manage Studio User Groups"
+                    }
+                  }
+                },
+                "Restoring Project Documents from Previous Revisions": {
+                  "type": "directory",
+                  "children": {
+                    "Restoring Project Documents from Previous Revisions": {
+                      "type": "file",
+                      "slug": "restoring_project_documents_from_previous_revisions",
+                      "name": "Restoring Project Documents from Previous Revisions"
+                    }
+                  }
+                },
+                "Start a Studio Project": {
+                  "type": "directory",
+                  "children": {
+                    "Start a Studio Project": {
+                      "type": "file",
+                      "slug": "start_a_studio_project",
+                      "name": "Start a Studio Project"
+                    }
+                  }
+                },
+                "Studio Projects Permissions": {
+                  "type": "directory",
+                  "children": {
+                    "Studio Projects Permissions": {
+                      "type": "file",
+                      "slug": "studio_projects_permissions",
+                      "name": "Studio Projects Permissions"
+                    }
+                  }
+                },
+                "Studio Projects Tabs": {
+                  "type": "directory",
+                  "children": {
+                    "Studio Projects Tabs": {
+                      "type": "file",
+                      "slug": "studio_projects_tabs",
+                      "name": "Studio Projects Tabs"
+                    }
+                  }
+                }
+              }
+            },
+            "Studio Sessions": {
+              "type": "directory",
+              "children": {
+                "Attend a Studio Session": {
+                  "type": "directory",
+                  "children": {
+                    "Attend a Studio Session": {
+                      "type": "file",
+                      "slug": "attend_a_studio_session",
+                      "name": "Attend a Studio Session"
+                    }
+                  }
+                },
+                "Host a Studio Session": {
+                  "type": "directory",
+                  "children": {
+                    "Host a Studio Session": {
+                      "type": "file",
+                      "slug": "host_a_studio_session",
+                      "name": "Host a Studio Session"
+                    }
+                  }
+                },
+                "Manage Studio Session Files": {
+                  "type": "directory",
+                  "children": {
+                    "Manage Studio Session Files": {
+                      "type": "file",
+                      "slug": "manage_studio_session_files",
+                      "name": "Manage Studio Session Files"
+                    }
+                  }
+                },
+                "Manage Studio User Groups": {
+                  "type": "directory",
+                  "children": {
+                    "Manage Studio User Groups": {
+                      "type": "file",
+                      "slug": "manage_studio_user_groups",
+                      "name": "Manage Studio User Groups"
+                    }
+                  }
+                },
+                "Studio Session Permissions": {
+                  "type": "directory",
+                  "children": {
+                    "Studio Session Permissions": {
+                      "type": "file",
+                      "slug": "studio_session_permissions",
+                      "name": "Studio Session Permissions"
+                    }
+                  }
+                },
+                "The Studio Panel in a Session": {
+                  "type": "directory",
+                  "children": {
+                    "The Studio Panel in a Session": {
+                      "type": "file",
+                      "slug": "the_studio_panel_in_a_session",
+                      "name": "The Studio Panel in a Session"
+                    }
+                  }
+                }
+              }
+            },
+            "The Studio Panel": {
+              "type": "directory",
+              "children": {
+                "The Studio Panel": {
+                  "type": "file",
+                  "slug": "the_studio_panel",
+                  "name": "The Studio Panel"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
