@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import blogsData from "../blogs.json";
+import blogsData from "../public/blogs.json";
 import "../hello.css";
 
 export default function DynamicPage() {
