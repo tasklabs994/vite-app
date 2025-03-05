@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import blogsData from "../assets/blogs.json";
+import blogsData from "../blogs.json";
 import "../hello.css";
 
 export default function DynamicPage() {
@@ -9,21 +9,15 @@ export default function DynamicPage() {
   const [blog, setBlog] = useState(null);
 
   useEffect(() => {
+    // Simulate data fetching delay
     const fetchData = async () => {
-      try {
-        const response = await fetch("/blogs.json"); // Fetch from public folder
-        const data = await response.json();
-        const foundBlog = data.find(b => b.version === version && b.slug === slug);
-        setBlog(foundBlog);
-      } catch (error) {
-        console.error("Failed to load blogs.json:", error);
-      } finally {
-        setLoading(false);
-      }
+      await new Promise((resolve) => setTimeout(resolve, 1000)); // 1 second delay
+      const foundBlog = blogsData.find(b => b.version === version && b.slug === slug);
+      setBlog(foundBlog);
+      setLoading(false);
     };
     fetchData();
   }, [version, slug]);
-  
 
   useEffect(() => {
     if (!loading) {
