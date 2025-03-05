@@ -9,15 +9,21 @@ export default function DynamicPage() {
   const [blog, setBlog] = useState(null);
 
   useEffect(() => {
-    // Simulate data fetching delay
     const fetchData = async () => {
-      await new Promise((resolve) => setTimeout(resolve, 1000)); // 1 second delay
-      const foundBlog = blogsData.find(b => b.version === version && b.slug === slug);
-      setBlog(foundBlog);
-      setLoading(false);
+      try {
+        const response = await fetch("/blogs.json"); // Fetch from public folder
+        const data = await response.json();
+        const foundBlog = data.find(b => b.version === version && b.slug === slug);
+        setBlog(foundBlog);
+      } catch (error) {
+        console.error("Failed to load blogs.json:", error);
+      } finally {
+        setLoading(false);
+      }
     };
     fetchData();
   }, [version, slug]);
+  
 
   useEffect(() => {
     if (!loading) {
