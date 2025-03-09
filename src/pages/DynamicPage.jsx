@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import blogsData from "../blogs.json";
 import "../hello.css";
 
 export default function DynamicPage() {
-  const { version, slug } = useParams();
+  const location = useLocation();
   const [loading, setLoading] = useState(true);
   const [blog, setBlog] = useState(null);
 
@@ -12,12 +12,14 @@ export default function DynamicPage() {
     // Simulate data fetching delay
     const fetchData = async () => {
       await new Promise((resolve) => setTimeout(resolve, 1000)); // 1 second delay
-      const foundBlog = blogsData.find(b => b.version === version && b.slug === slug);
+      // Use the exact current pathname for matching
+      const currentRoute = location.pathname;
+      const foundBlog = blogsData.find(b => b.route === currentRoute);
       setBlog(foundBlog);
       setLoading(false);
     };
     fetchData();
-  }, [version, slug]);
+  }, [location.pathname]);
 
   useEffect(() => {
     if (!loading) {
