@@ -13,8 +13,10 @@ function App() {
       <Suspense fallback={<div>Loading...</div>}>
         <Routes>
           <Route path="/" element={<Home />} />
-          {/* Wildcard route to capture all nested paths */}
-          <Route path="/blog/:version/*" element={<DynamicPage />} />
+          <Route path="/blog/:version/:slug" element={<DynamicPage />} />
+          <Route path="/blog/:version/:category/:slug" element={<DynamicPage />} />
+          <Route path="/blog/:version/:category/:subcategory/:slug" element={<DynamicPage />} />
+          <Route path="/blog/:version/:category/:subcategory/:subsubcategory/:slug" element={<DynamicPage />} />
         </Routes>
       </Suspense>
       <Footer />
