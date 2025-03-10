@@ -26,9 +26,12 @@
   width: 80%;
   padding: 10px;
   font-size: 16px;
-  border: 1px solid #ccc;
+  border: 2px solid #ccc;
   border-radius: 4px;
+  background-color: rgb(240, 240, 240);
+  color: #000;
 }
+
 
 .blog-cards {
   display: flex;
@@ -118,7 +121,7 @@ header nav a:hover {
 article {
   background: #f4f4f4;
   color: black;
-  margin: 140px 5% 40px; /* Increased top margin to 140px */
+  margin: 140px 5% 40px;
   padding: 40px 20px;
   border-radius: 8px;
 }
@@ -224,7 +227,6 @@ article {
 
 /* Version Toggle Styles */
 .version-toggle {
-
   margin: 20px;
   text-align: center;
 }
