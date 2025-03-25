@@ -1,0 +1,150 @@
+/* Main footer container (dark background, white text) */
+.footer {
+  background-color: #111111;
+  color: #fff;
+  font: 16px open-sans, sans-serif;
+}
+
+/* Inner wrapper to limit max width and center content */
+.footer-inner {
+  max-width: 1280px; /* roughly Tailwind's max-w-7xl */
+  margin: 0 auto; /* similar to px-4 py-8 */
+}
+
+/* Top area: flex row on large screens, column on mobile */
+.footer-top {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Switch to row layout on large screens (e.g. 1024px) */
+@media (min-width: 1024px) {
+  .footer-top {
+    flex-direction: row;
+  }
+}
+
+/* Left side: logo + nav links */
+.footer-left {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* Switch to row layout on medium screens (768px) if desired */
+@media (min-width: 768px) {
+  .footer-left {
+    flex-direction: row;
+  }
+}
+
+/* Logo image: ensure it scales properly */
+.footer-logo img {
+  max-width: 20%;
+  height: auto;
+}
+
+/* Nav links list */
+.footer-links {
+  list-style: none;
+  margin-right: 6rem;
+  padding: 0;
+}
+
+/* Nav links: remove underlines, add hover effect */
+.footer-links li a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+.footer-links li a:hover {
+  color: #ccc; /* or #bbb, adjust as needed */
+}
+
+/* Right side: "Volg BPA" + social + company info */
+.footer-right {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* Switch to row layout on medium screens (768px) if desired */
+@media (min-width: 768px) {
+  .footer-right {
+    flex-direction: row;
+  }
+}
+
+/* Social area */
+.footer-social h3 {
+  font-weight: bold;
+  margin-bottom: 1rem;
+  margin-left: 8rem;
+  color: #9b9b9b;
+}
+
+.social-icons {
+  margin-left: 8rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social-icons a {
+  color: inherit;
+  transition: color 0.2s ease;
+}
+.social-icons a:hover {
+  color: #ccc;
+}
+
+/* Inline SVG icons (size, color) */
+.icon {
+  width: 1.2rem; /* w-6 in Tailwind = 24px */
+  height: 1.2rem;
+  fill: currentColor; /* fill-current in Tailwind */
+  border-radius: 50%;
+  border-width: 2px;
+  border-color: white;
+  border-style: solid;
+  padding: 10px;
+}
+
+/* Company info block */
+.footer-company .company-title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  margin-left: 8rem;
+  color: #9b9b9b;
+}
+
+.footer-company .company-info {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 8rem;
+}
+
+/* Bottom image */
+
+.footer-image img {
+  margin-left: 10rem;
+  width: 60%;
+  height: auto;
+}
+
+/* Final bottom row */
+.footer-bottom {
+  background-color: #111111;
+  color: #fff;
+}
+
+/* Inner wrapper for bottom row */
+.footer-bottom-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: left;
+  color: #9b9b9b;
+  font-size: medium;
+}
