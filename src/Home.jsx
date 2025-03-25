@@ -94,18 +94,9 @@ export default function Home() {
   // Build hierarchy if no search
   const nestedData = searchQuery ? {} : buildHierarchy(filteredBlogs);
 
-  // Toggle subcategory open only if it has third-level
-  function toggleSub(topCat, subCat) {
-    const key = `${topCat}||${subCat}`;
-    setOpenSub((prev) => ({
-      ...prev,
-      [key]: !prev[key],
-    }));
-  }
-
-  // top-level categories
+  // top-level categories (for table layout)
   const topCats = Object.keys(nestedData);
-  // 3,3,2 layout
+  // 3,3,2 layout for desktop/tablet
   const rowSizes = [3, 3, 2];
   let rows = [];
   if (topCats.length >= 8) {
@@ -124,8 +115,10 @@ export default function Home() {
         {versions.map((version) => (
           <button
             key={version}
-            className={`py-2.5 px-5 mx-[10px] rounded bg-[#e0e0e0] cursor-pointer font-bold transition-colors duration-200 ${
-              selectedVersion === version ? "bg-[#3179c1] text-white" : ""
+            className={`py-2.5 px-5 mx-[10px] rounded  cursor-pointer font-bold transition-colors duration-200 ${
+              selectedVersion === version
+                ? "bg-[#3179C1] text-white"
+                : "bg-[#e0e0e0] text-black"
             } hover:bg-[#d0d0d0]`}
             onClick={() => {
               setSelectedVersion(version);
@@ -149,7 +142,7 @@ export default function Home() {
       </div>
 
       {searchQuery ? (
-        // Show blog cards
+        // Blog Cards (assumed responsive already)
         <div className="flex flex-col">
           {filteredBlogs.map((blog, idx) => (
             <a
@@ -168,27 +161,23 @@ export default function Home() {
           {filteredBlogs.length === 0 && <p>No pages found.</p>}
         </div>
       ) : (
-        // 3,3,2 table layout
-        <table
-          className="border-separate border-spacing-4 mt-[10px] mb-[40px] mx-auto w-[65%] text-[#0083DB]"
-          style={{
-            fontFamily: "Lucida Sans Unicode, Lucida Grande, Arial, sans-serif",
-          }}
-        >
-          <colgroup>
-            <col style={{ width: "33.33%" }} />
-            <col style={{ width: "33.33%" }} />
-            <col style={{ width: "33.33%" }} />
-          </colgroup>
-          <tbody>
-            {rows.map((row, rowIndex) => {
-              const expectedCols = rowSizes[rowIndex] || row.length;
+        <>
+          {/* Mobile View: Each top-level category gets its own one-column table */}
+          <div className="block md:hidden">
+            {topCats.map((topCat) => {
+              const subCats = Object.keys(nestedData[topCat] || {});
               return (
-                <tr key={rowIndex}>
-                  {row.map((topCat) => {
-                    const subCats = Object.keys(nestedData[topCat] || {});
-                    return (
-                      <td key={topCat} className="align-top p-0 text-[0.9rem]">
+                <table
+                  key={topCat}
+                  className="border-separate border-spacing-4 mt-4 mb-4 mx-auto w-[90%] text-[#0083DB]"
+                  style={{
+                    fontFamily:
+                      "Lucida Sans Unicode, Lucida Grande, Arial, sans-serif",
+                  }}
+                >
+                  <tbody>
+                    <tr>
+                      <td className="align-top p-0 text-[0.9rem]">
                         <div className="border-[2.2px] border-[#0083DB] p-[15px] rounded-none min-h-[315px]">
                           <h3 className="mt-0 mb-[10px] text-[#0083DB] text-[1.1rem] font-bold">
                             {topCat}
@@ -255,22 +244,128 @@ export default function Home() {
                           </div>
                         </div>
                       </td>
-                    );
-                  })}
-                  {row.length < expectedCols &&
-                    Array.from({ length: expectedCols - row.length }).map(
-                      (_, idx) => (
-                        <td
-                          key={`empty-${idx}`}
-                          className="align-top p-0 text-[0.9rem]"
-                        ></td>
-                      )
-                    )}
-                </tr>
+                    </tr>
+                  </tbody>
+                </table>
               );
             })}
-          </tbody>
-        </table>
+          </div>
+
+          {/* Desktop/Tablet View: Multi-column table layout */}
+          <div className="hidden md:block">
+            <table
+              className="border-separate border-spacing-4 mt-[10px] mb-[40px] mx-auto w-[65%] text-[#0083DB]"
+              style={{
+                fontFamily:
+                  "Lucida Sans Unicode, Lucida Grande, Arial, sans-serif",
+              }}
+            >
+              <colgroup>
+                <col style={{ width: "33.33%" }} />
+                <col style={{ width: "33.33%" }} />
+                <col style={{ width: "33.33%" }} />
+              </colgroup>
+              <tbody>
+                {rows.map((row, rowIndex) => {
+                  const expectedCols = rowSizes[rowIndex] || row.length;
+                  return (
+                    <tr key={rowIndex}>
+                      {row.map((topCat) => {
+                        const subCats = Object.keys(nestedData[topCat] || {});
+                        return (
+                          <td
+                            key={topCat}
+                            className="align-top p-0 text-[0.9rem]"
+                          >
+                            <div className="border-[2.2px] border-[#0083DB] p-[15px] rounded-none min-h-[315px]">
+                              <h3 className="mt-0 mb-[10px] text-[#0083DB] text-[1.1rem] font-bold">
+                                {topCat}
+                              </h3>
+                              <div className="ml-[10px] text-[#0083DB]">
+                                {subCats.map((subCat) => {
+                                  const subVal = nestedData[topCat][subCat];
+                                  const subKey = `${topCat}||${subCat}`;
+                                  const hasThirdLevel =
+                                    !Array.isArray(subVal) &&
+                                    Object.keys(subVal).length > 0;
+                                  let route = null;
+                                  if (!hasThirdLevel) {
+                                    route = subVal.length
+                                      ? subVal[0].route
+                                      : "#";
+                                  }
+                                  const isSubOpen = !!openSub[subKey];
+                                  return (
+                                    <div key={subCat} className="mb-[5px]">
+                                      {hasThirdLevel ? (
+                                        <div
+                                          className="cursor-pointer text-[#0083DB]"
+                                          onClick={() =>
+                                            setOpenSub((prev) => ({
+                                              ...prev,
+                                              [subKey]: !prev[subKey],
+                                            }))
+                                          }
+                                        >
+                                          {isSubOpen ? "[-]" : "[+]"} {subCat}
+                                        </div>
+                                      ) : (
+                                        <a
+                                          href={route || "#"}
+                                          className="text-[#0083DB] no-underline font-bold"
+                                        >
+                                          {subCat}
+                                        </a>
+                                      )}
+                                      {hasThirdLevel && isSubOpen && (
+                                        <div className="ml-[20px] mt-[5px]">
+                                          {Object.keys(subVal).map(
+                                            (thirdKey) => {
+                                              const thirdVal = subVal[thirdKey];
+                                              const thirdRoute =
+                                                findFirstBlogRoute(thirdVal) ||
+                                                "#";
+                                              return (
+                                                <div
+                                                  key={thirdKey}
+                                                  className="mb-[5px]"
+                                                >
+                                                  <a
+                                                    href={thirdRoute}
+                                                    className="text-[#0083DB] no-underline"
+                                                  >
+                                                    {thirdKey}
+                                                  </a>
+                                                </div>
+                                              );
+                                            }
+                                          )}
+                                        </div>
+                                      )}
+                                    </div>
+                                  );
+                                })}
+                              </div>
+                            </div>
+                          </td>
+                        );
+                      })}
+                      {row.length < expectedCols &&
+                        Array.from({ length: expectedCols - row.length }).map(
+                          (_, idx) => (
+                            <td
+                              key={`empty-${idx}`}
+                              className="align-top p-0 text-[0.9rem]"
+                            ></td>
+                          )
+                        )}
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
+        </>
       )}
     </div>
   );
