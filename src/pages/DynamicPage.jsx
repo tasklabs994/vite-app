@@ -81,7 +81,7 @@ export default function DynamicPage() {
   return (
     <article
       id="page-content"
-      className="prose mx-auto px-4 lg:px-20"
+      className="prose mx-auto px-4 py-10 lg:px-20 mt-24"
       dangerouslySetInnerHTML={{ __html: blog.fullData.html }}
     />
   );
