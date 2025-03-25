@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import blogsData from "../blogs.json";
-import "../hello.css";
-
 export default function DynamicPage() {
   const location = useLocation();
   const navigate = useNavigate();
@@ -83,6 +81,7 @@ export default function DynamicPage() {
   return (
     <article
       id="page-content"
+      className="prose mx-auto px-4 py-10 lg:px-20 mt-24"
       dangerouslySetInnerHTML={{ __html: blog.fullData.html }}
     />
   );
