@@ -1,4 +1,3 @@
-// tailwind.config.js
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}", "./src/index.jsx"],
   safelist: [
@@ -9,5 +8,22 @@ module.exports = {
     "text-center",
     // Add any additional classes that your dynamic HTML relies on
   ],
-  plugins: [require("@tailwindcss/typography")],
+  plugins: [
+    require("@tailwindcss/typography"),
+    // Custom plugin to add default list styles
+    function ({ addBase }) {
+      addBase({
+        "ul:not([class])": {
+          listStyleType: "disc",
+          marginLeft: "1.5rem",
+          paddingLeft: "1.5rem",
+        },
+        "ol:not([class])": {
+          listStyleType: "decimal",
+          marginLeft: "1.5rem",
+          paddingLeft: "1.5rem",
+        },
+      });
+    },
+  ],
 };
